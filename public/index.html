@@ -1,0 +1,186 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NSE Pre-Market Game Plan</title>
+  <style>
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0b1120;
+      color: #e5e7eb;
+    }
+
+    header {
+      padding: 22px 5%;
+      background: #111a2d;
+      border-bottom: 1px solid #26344b;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    h1 { font-size: 21px; margin: 0; }
+    h1 span { color: #38bdf8; }
+
+    .status {
+      color: #fbbf24;
+      font-size: 13px;
+    }
+
+    main {
+      max-width: 1250px;
+      margin: auto;
+      padding: 30px 5%;
+    }
+
+    .intro { margin-bottom: 25px; }
+    .intro h2 { margin: 0 0 8px; font-size: 25px; }
+    .intro p { color: #94a3b8; margin: 0; }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 15px;
+      margin-bottom: 28px;
+    }
+
+    .card {
+      background: #151f33;
+      border: 1px solid #293750;
+      border-radius: 10px;
+      padding: 20px;
+    }
+
+    .card p {
+      color: #94a3b8;
+      font-size: 13px;
+      margin: 0 0 12px;
+    }
+
+    .card strong { font-size: 21px; }
+
+    .section {
+      background: #151f33;
+      border: 1px solid #293750;
+      border-radius: 10px;
+      padding: 20px;
+      margin-bottom: 22px;
+      overflow-x: auto;
+    }
+
+    .section h3 { margin: 0 0 18px; }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 650px;
+      text-align: left;
+    }
+
+    th, td {
+      padding: 14px 12px;
+      border-bottom: 1px solid #293750;
+      font-size: 13px;
+    }
+
+    th { color: #94a3b8; font-weight: 600; }
+
+    .empty {
+      color: #94a3b8;
+      text-align: center;
+      padding: 30px;
+    }
+
+    .notice {
+      color: #fbbf24;
+      font-size: 13px;
+      background: #302817;
+      padding: 14px;
+      border-radius: 8px;
+    }
+
+    footer {
+      text-align: center;
+      color: #64748b;
+      padding: 25px;
+      font-size: 12px;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1><span>NSE</span> Pre-Market Game Plan</h1>
+    <div class="status">● Data connection not configured</div>
+  </header>
+
+  <main>
+    <div class="intro">
+      <h2>Market Overview</h2>
+      <p>Your daily NSE intraday research and trading dashboard.</p>
+    </div>
+
+    <div class="cards">
+      <div class="card">
+        <p>NIFTY 50</p>
+        <strong>--</strong>
+      </div>
+      <div class="card">
+        <p>BANK NIFTY</p>
+        <strong>--</strong>
+      </div>
+      <div class="card">
+        <p>GIFT NIFTY</p>
+        <strong>--</strong>
+      </div>
+      <div class="card">
+        <p>Stocks shortlisted</p>
+        <strong>0</strong>
+      </div>
+    </div>
+
+    <div class="section">
+      <h3>Pre-Market Stock Scanner</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>Symbol</th>
+            <th>Price</th>
+            <th>Change %</th>
+            <th>Volume</th>
+            <th>Catalyst</th>
+            <th>Priority</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td colspan="6" class="empty">
+              No market data available yet. Data integration is coming later.
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="section">
+      <h3>Intraday Game Plan</h3>
+      <div class="notice">
+        No trading signals generated. Market data and analysis engine
+        have not been connected yet.
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    NSE Pre-Market Game Plan | Research dashboard only.
+    All trading decisions require independent verification.
+  </footer>
+</body>
+</html>
