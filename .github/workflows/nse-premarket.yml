@@ -1,0 +1,21 @@
+name: NSE Pre-Market Automation
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 3 * * 1-5"
+
+jobs:
+  premarket:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check automation
+        run: |
+          echo "NSE Pre-Market Automation started."
+          echo "Date: $(date -u)"
+          echo "Workflow is running successfully."
