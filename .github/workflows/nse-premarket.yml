@@ -6,16 +6,32 @@ on:
   schedule:
     - cron: "0 3 * * 1-5"
 
+permissions:
+  contents: write
+
 jobs:
   premarket:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Check automation
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect overnight news metadata
+        run: python scripts/fetch_news.py
+
+      - name: Commit news snapshot
         run: |
-          echo "NSE Pre-Market Automation started."
-          echo "Date: $(date -u)"
-          echo "Workflow is running successfully."
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/news.json
+          if git diff --cached --quiet; then
+            echo "No news snapshot changes."
+          else
+            git commit -m "Update overnight news snapshot"
+            git push
+          fi
