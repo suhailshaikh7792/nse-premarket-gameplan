@@ -112,13 +112,21 @@
       padding: 25px;
       font-size: 12px;
     }
+  
+    .news-meta { color: #94a3b8; font-size: 12px; margin: 7px 0 0; }
+    .news-item { padding: 16px 0; border-bottom: 1px solid #293750; }
+    .news-item:last-child { border-bottom: 0; }
+    .news-item a { color: #e5e7eb; text-decoration: none; font-weight: 600; }
+    .news-item a:hover { color: #38bdf8; }
+    .news-toolbar { display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap; margin-bottom:10px; }
+    .tag { display:inline-block; border:1px solid #3b4b65; color:#cbd5e1; border-radius:20px; padding:4px 9px; font-size:11px; }
   </style>
 </head>
 
 <body>
   <header>
     <h1><span>NSE</span> Pre-Market Game Plan</h1>
-    <div class="status">● Data connection not configured</div>
+    <div class="status" id="data-status">● News feed awaiting first run</div>
   </header>
 
   <main>
@@ -174,5 +182,41 @@
 NSE Pre-Market Game Plan | Automated market research dashboard.
 All trading decisions require independent verification.
   </footer>
+
+  <script>
+    (async function loadOvernightNews() {
+      const list = document.getElementById("news-list");
+      const count = document.getElementById("news-count");
+      const status = document.getElementById("data-status");
+      const esc = (value) => String(value || "").replace(/[&<>"']/g, ch => ({
+        "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;"
+      }[ch]));
+      try {
+        const response = await fetch("./data/news.json?ts=" + Date.now(), { cache: "no-store" });
+        if (!response.ok) throw new Error("News snapshot not available");
+        const data = await response.json();
+        count.textContent = (data.articleCount || 0) + " articles collected";
+        document.getElementById("news-window").textContent =
+          "Window: " + data.windowStart + " → " + data.windowEnd + " (IST) · Generated: " + data.generatedAt;
+        if (!data.articles || !data.articles.length) {
+          list.innerHTML = '<div class="empty">No matching articles found in this collection window.</div>';
+        } else {
+          list.innerHTML = data.articles.map(item => `
+            <article class="news-item">
+              <a href="${esc(item.url)}" target="_blank" rel="noopener noreferrer">${esc(item.title)}</a>
+              <div class="news-meta">${esc(item.source)} · First seen: ${esc(item.firstSeenAt)}</div>
+            </article>`).join("");
+        }
+        if (data.warnings && data.warnings.length) {
+          document.getElementById("news-notice").textContent += " Collector warnings: " + data.warnings.join(" | ");
+        }
+        status.textContent = "● News snapshot loaded";
+        status.style.color = "#86efac";
+      } catch (error) {
+        count.textContent = "No snapshot yet";
+        status.textContent = "● News feed awaiting data";
+      }
+    })();
+  </script>
 </body>
 </html>
