@@ -32,12 +32,12 @@ for i, query in enumerate(queries):
             title, link = (row.get("title") or "").strip(), (row.get("url") or "").strip()
             stamp = seen_time(row.get("seendate"))
             if title and link and stamp and start <= stamp <= end:
-                articles[link] = {"title": title, "url": link, "source": row.get("domain") or urllib.parse.urlparse(link).netloc, "publishedAt": stamp.isoformat()}
+                articles[link] = {"title": title, "url": link, "source": row.get("domain") or urllib.parse.urlparse(link).netloc, "firstSeenAt": stamp.isoformat()}
     except Exception as exc:
         warnings.append("Query " + str(i + 1) + " failed: " + str(exc))
     if i != len(queries) - 1:
         time.sleep(5.5)
-result = {"generatedAt": now.isoformat(), "windowStart": start.isoformat(), "windowEnd": end.isoformat(), "timezone": "Asia/Kolkata", "provider": "GDELT DOC 2.0", "providerUrl": "https://www.gdeltproject.org/", "articleCount": len(articles), "articles": sorted(articles.values(), key=lambda x: x["publishedAt"], reverse=True)[:200], "warnings": warnings, "notice": "Headlines and links only. Open the publisher source to verify details; coverage is not exhaustive."}
+result = {"generatedAt": now.isoformat(), "windowStart": start.isoformat(), "windowEnd": end.isoformat(), "timezone": "Asia/Kolkata", "provider": "GDELT DOC 2.0", "providerUrl": "https://www.gdeltproject.org/", "articleCount": len(articles), "articles": sorted(articles.values(), key=lambda x: x["firstSeenAt"], reverse=True)[:200], "warnings": warnings, "notice": "Headlines and links only. Open the publisher source to verify details; coverage is not exhaustive."}
 Path("public/data").mkdir(parents=True, exist_ok=True)
 Path("public/data/news.json").write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 print("Saved", len(articles), "articles.")
