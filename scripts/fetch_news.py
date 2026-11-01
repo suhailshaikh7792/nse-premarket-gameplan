@@ -7,7 +7,9 @@ now = datetime.now(IST)
 end = now.replace(hour=8, minute=30, second=0, microsecond=0)
 if now < end:
     end = now
-start = (end - timedelta(days=1)).replace(hour=15, minute=30, second=0, microsecond=0)
+# Monday includes the full weekend since the previous regular session closed Friday.
+days_back = 3 if end.weekday() == 0 else 1
+start = (end - timedelta(days=days_back)).replace(hour=15, minute=30, second=0, microsecond=0)
 queries = [
     '("India" OR "Indian") (stocks OR shares OR NSE OR BSE OR markets)',
     '("India" OR "Indian") (company OR corporate) (order OR contract OR acquisition OR merger OR results OR earnings OR regulation)',
