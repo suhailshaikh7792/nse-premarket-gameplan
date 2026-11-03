@@ -1,16 +1,119 @@
 {
-  "generatedAt": "2026-11-02T09:18:50.574677+05:30",
-  "windowStart": "2026-10-30T15:30:00+05:30",
-  "windowEnd": "2026-11-02T08:30:00+05:30",
+  "generatedAt": "2026-11-03T09:15:05.541115+05:30",
+  "windowStart": "2026-11-02T15:30:00+05:30",
+  "windowEnd": "2026-11-03T08:30:00+05:30",
   "timezone": "Asia/Kolkata",
   "provider": "GDELT DOC 2.0",
   "providerUrl": "https://www.gdeltproject.org/",
-  "articleCount": 0,
-  "articles": [],
+  "articleCount": 17,
+  "articles": [
+    {
+      "title": "San Diego gas prices down 40 cents a gallon in the past month . But what happens next ?",
+      "url": "https://www.sandiegouniontribune.com/2026/11/02/san-diego-gas-prices-down-40-cents-a-gallon-in-the-past-month-but-what-happens-next/",
+      "source": "sandiegouniontribune.com",
+      "firstSeenAt": "2026-11-03T07:45:00+05:30"
+    },
+    {
+      "title": "黃金低點大反攻 ！ 原因一次看 - 自由財經",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5627358",
+      "source": "ec.ltn.com.tw",
+      "firstSeenAt": "2026-11-03T07:45:00+05:30"
+    },
+    {
+      "title": "« الوزراء »: 3 محاور رئيسية لاستعداد الحكومة للتعامل مع تداعيات التطورات الإقليمية",
+      "url": "https://www.elwatannews.com/news/details/8389262",
+      "source": "elwatannews.com",
+      "firstSeenAt": "2026-11-03T07:45:00+05:30"
+    },
+    {
+      "title": "文化中国 | 深刻把握中华文明突出的和平性",
+      "url": "https://www.qstheory.cn/20261102/f8c1f16bcaa44274b1853e63a8654333/c.html",
+      "source": "qstheory.cn",
+      "firstSeenAt": "2026-11-03T07:45:00+05:30"
+    },
+    {
+      "title": "Ontario gasoline , diesel prices to plummet Wednesday",
+      "url": "https://www.niagarathisweek.com/news/ontario-gas-price-prediction-for-nov-4/article_3a74bb58-21aa-579f-9247-a053deae89b2.html",
+      "source": "niagarathisweek.com",
+      "firstSeenAt": "2026-11-03T07:45:00+05:30"
+    },
+    {
+      "title": "怎么看当前我国经济形势和发展走向",
+      "url": "https://www.qstheory.cn/20261102/eaba9fd3213e4484b7dedd988ba22d12/c.html",
+      "source": "qstheory.cn",
+      "firstSeenAt": "2026-11-03T07:45:00+05:30"
+    },
+    {
+      "title": "비트코인 7만7000달러선도 붕괴 …  바이낸스 해킹 사태 여진",
+      "url": "https://biz.chosun.com/stock/finance/2026/11/03/7PHCMSXHDZDOBHWYKHX6CSJY6E/",
+      "source": "biz.chosun.com",
+      "firstSeenAt": "2026-11-03T07:45:00+05:30"
+    },
+    {
+      "title": "以退为进 ： 出口退税的再定价 - 华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3785031",
+      "source": "wallstreetcn.com",
+      "firstSeenAt": "2026-11-03T07:45:00+05:30"
+    },
+    {
+      "title": "美伊展现  谈判意愿 ， 全球能源价格重挫 ， 黄金强势反弹 、 创两个月来最大单日涨幅",
+      "url": "https://wallstreetcn.com/articles/3785033",
+      "source": "wallstreetcn.com",
+      "firstSeenAt": "2026-11-03T07:45:00+05:30"
+    },
+    {
+      "title": "War , tariffs and China : What the US midterms mean for the Asia - Pacific - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+      "url": "https://dominicanrepublicpost.com/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific/",
+      "source": "dominicanrepublicpost.com",
+      "firstSeenAt": "2026-11-03T07:45:00+05:30"
+    },
+    {
+      "title": "美军F - 35战机疑被伊朗击中 ， 中东局势的地缘政治博弈",
+      "url": "https://www.mastv.cc/news/23121.html",
+      "source": "mastv.cc",
+      "firstSeenAt": "2026-11-03T07:45:00+05:30"
+    },
+    {
+      "title": "Mercer International Announces Comprehensive Recapitalization Agreement with Significant Support from Noteholders and Shareholders",
+      "url": "https://www.saultstar.com/press-releases/globe-newswire/mercer-international-announces-comprehensive-recapitalization-agreement-with-significant-support-from-noteholders-and-shareholders/",
+      "source": "saultstar.com",
+      "firstSeenAt": "2026-11-03T07:45:00+05:30"
+    },
+    {
+      "title": "شي يعقد محادثات مع سلطان عُمان ويشدد على التعاون الثنائي وجهود السلام في الشرق الأوسط",
+      "url": "https://arabic.people.com.cn/n3/2026/1103/c31660-20514891.html",
+      "source": "arabic.people.com.cn",
+      "firstSeenAt": "2026-11-03T07:45:00+05:30"
+    },
+    {
+      "title": "Rupiah Masih Rentan - 3 November 2026",
+      "url": "https://koran-jakarta.com/2026-11-03/rupiah-masih-rentan-3-november-2026",
+      "source": "koran-jakarta.com",
+      "firstSeenAt": "2026-11-03T07:45:00+05:30"
+    },
+    {
+      "title": "CPP Investments and Dream Complete $585 . 8 Million Acquisition of GTA Industrial Portfolio",
+      "url": "https://www.saultstar.com/press-releases/business-wire/cpp-investments-and-dream-complete-585-8-million-acquisition-of-gta-industrial-portfolio/",
+      "source": "saultstar.com",
+      "firstSeenAt": "2026-11-03T07:45:00+05:30"
+    },
+    {
+      "title": "The Midterms Will Change Us Politics . But NZ Will Keep Feeling The Trump Effect",
+      "url": "https://www.scoop.co.nz/stories/PO2611/S00019/the-midterms-will-change-us-politics-but-nz-will-keep-feeling-the-trump-effect.htm",
+      "source": "scoop.co.nz",
+      "firstSeenAt": "2026-11-03T07:45:00+05:30"
+    },
+    {
+      "title": "Ontario gasoline , diesel prices to plummet Wednesday",
+      "url": "https://www.northbaynipissing.com/news/ontario-gas-price-prediction-for-nov-4/article_c181a28f-180f-54d8-a5e6-bfd46681d983.html",
+      "source": "northbaynipissing.com",
+      "firstSeenAt": "2026-11-03T07:45:00+05:30"
+    }
+  ],
   "warnings": [
     "Query 1 failed: HTTP Error 429: Too Many Requests",
     "Query 2 failed: HTTP Error 429: Too Many Requests",
-    "Query 4 failed: HTTP Error 429: Too Many Requests"
+    "Query 3 failed: HTTP Error 429: Too Many Requests"
   ],
   "notice": "Headlines and links only. Open the publisher source to verify details; coverage is not exhaustive."
 }
