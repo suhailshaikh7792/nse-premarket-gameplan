@@ -1,16 +1,466 @@
 {
-  "generatedAt": "2026-11-09T09:21:31.368172+05:30",
-  "windowStart": "2026-11-06T15:30:00+05:30",
-  "windowEnd": "2026-11-09T08:30:00+05:30",
+  "generatedAt": "2026-11-10T09:14:26.967562+05:30",
+  "windowStart": "2026-11-09T15:30:00+05:30",
+  "windowEnd": "2026-11-10T08:30:00+05:30",
   "timezone": "Asia/Kolkata",
   "provider": "GDELT DOC 2.0",
   "providerUrl": "https://www.gdeltproject.org/",
-  "articleCount": 0,
-  "articles": [],
+  "articleCount": 75,
+  "articles": [
+    {
+      "title": "Son las nuevas estrellas de MLB ; conoce a los ganadores del premio al Novato del Año",
+      "url": "https://tribuna.com.mx/deportes/2026/11/09/son-las-nuevas-estrellas-de-mlb-conoce-a-los-ganadores-del-premio-al-novato-del-ano_713128/",
+      "source": "tribuna.com.mx",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Neo Performance Materials Reports Third Quarter 2026 Results",
+      "url": "https://www.northernnews.ca/press-releases/pr-newswire/neo-performance-materials-reports-third-quarter-2026-results/",
+      "source": "northernnews.ca",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "[ 오늘의 투자전략 ] 코스피 , 美 반도체주 급등에 반등 전망⋯  오후 2시 징크스  극복 주목",
+      "url": "https://www.etoday.co.kr/news/view/2646021",
+      "source": "etoday.co.kr",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Democrats will try to roll back Medicaid cuts , stop tariffs , Oregon US Sen . Ron Wyden says",
+      "url": "https://www.ijpr.org/politics-government/2026-11-09/democrats-will-try-to-roll-back-medicaid-cuts-stop-tariffs-oregon-us-sen-ron-wyden-says",
+      "source": "ijpr.org",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Chứng khoán Mỹ : Chỉ số S & P 500 bật tăng trở lại sau tuần sụt giảm",
+      "url": "https://baotintuc.vn/chung-khoan-my-chi-so-sp-500-bat-tang-tro-lai-sau-tuan-sut-giam-post1401365.html",
+      "source": "baotintuc.vn",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Georgia Tech DC among coaches fired amid 2 - 7 start",
+      "url": "https://www.640wxsm.com/2026/11/09/georgia-techs-dc-among-coaches-fired-amid-2-7-start/",
+      "source": "640wxsm.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Gold , silver advance as dollar weakens , Fed rate expectations face inflation test - Kitco PM Report",
+      "url": "http://www.kitco.com/news/article/2026-11-09/gold-silver-advance-dollar-weakens-fed-rate-expectations-face-inflation",
+      "source": "kitco.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "В Красноярском крае однимут цены на эвакуацию машин и штрафстоянку / Новости экономики Красноярска и Красноярского края / Newslab . Ru",
+      "url": "https://newslab.ru/news/1444059",
+      "source": "newslab.ru",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Power Solutions International Strengthens Longstanding HD Construction Equipment Partnership with Multi - Year Engine Supply Commitment",
+      "url": "https://www.manilatimes.net/2026/11/10/tmt-newswire/globenewswire/power-solutions-international-strengthens-longstanding-hd-construction-equipment-partnership-with-multi-year-engine-supply-commitment/2465892",
+      "source": "manilatimes.net",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Oil Prices : Oil prices today : Crude edges lower as Donald Trump signals pause in military action against Iran",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-crude-edges-lower-as-donald-trump-signals-pause-in-military-action-against-iran/articleshow/135696941.cms",
+      "source": "timesofindia.indiatimes.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "주가 급락에 한은 금리 인상 브레이크 걸릴까",
+      "url": "https://www.etoday.co.kr/news/view/2646235",
+      "source": "etoday.co.kr",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "万亿债务撞上高息再融资 ！ AI基建即将面临  利率冲击波 ？_ 国际财经 _ 财经 _ 中金在线",
+      "url": "http://news.cnfol.com/guojicaijing/20261110/32419711.shtml",
+      "source": "news.cnfol.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "ATO targets rental deductions : why landlords face tax bills",
+      "url": "https://www.gleninnesexaminer.com.au/story/9388782/ato-targets-rental-deductions-why-landlords-face-tax-bills/",
+      "source": "gleninnesexaminer.com.au",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "IEAT與輸出入銀行簽署MOU 強強聯手助力企業拓展國際市場",
+      "url": "https://n.yam.com/Article/20261110851341",
+      "source": "n.yam.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "ATO targets rental deductions : why landlords face tax bills",
+      "url": "https://www.katherinetimes.com.au/story/9388782/ato-targets-rental-deductions-why-landlords-face-tax-bills/",
+      "source": "katherinetimes.com.au",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Survey : 37 % of homeowners say mortgage rates are keeping them from moving",
+      "url": "https://buffaloreflex.com/syndicated/survey-37-of-homeowners-say-mortgage-rates-are-keeping-them-from-moving",
+      "source": "buffaloreflex.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "أسعار الذهب في قطر تستفيد من تراجع الدولار وسط ترقب بيانات أمريكية",
+      "url": "https://akhbaregy.com/2026/11/10/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%81%D9%8A-%D9%82%D8%B7%D8%B1-%D8%AA%D8%B3%D8%AA%D9%81%D9%8A%D8%AF-%D9%85%D9%86-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%A7%D9%84%D8%AF%D9%88/",
+      "source": "akhbaregy.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "多空拉锯 沪铜上下两难 _ 基金动态 _ 基金 _ 中金在线",
+      "url": "http://fund.cnfol.com/jijindongtai/20261110/32419706.shtml",
+      "source": "fund.cnfol.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "开盘 ： 创指大幅高开2 . 44 % CPO板块涨幅居前 _ 市场测评 _ 市场 _ 中金在线",
+      "url": "http://sc.stock.cnfol.com/shichangceping/20261110/32419745.shtml",
+      "source": "sc.stock.cnfol.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "MAFS star slams big banks over mortgage rate hikes",
+      "url": "https://www.realestate.com.au/news/mafs-star-slams-big-banks-over-mortgage-rate-hikes/",
+      "source": "realestate.com.au",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "TechPrecision Corporation Secures $10 . 0M Financing Agreement with Rosenthal Capital Group , Strengthening Capital Structure",
+      "url": "http://www.memphissun.com/news/279422738/techprecision-corporation-secures-100m-financing-agreement-with-rosenthal-capital-group-strengthening-capital-structure",
+      "source": "memphissun.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Will Kiwis stop migrating to Australia ?",
+      "url": "https://www.macrobusiness.com.au/2026/11/will-kiwis-stop-migrating-to-australia/",
+      "source": "macrobusiness.com.au",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "전국 아파트 입주전망 반등에도 서울은  뚝  ⋯잔금대출 부담 커졌다",
+      "url": "https://www.etoday.co.kr/news/view/2646185",
+      "source": "etoday.co.kr",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "黄仁勋曝出轨大瓜 ， 但麻烦还不止于此",
+      "url": "https://www.vava8.com/index.php?app=index&act=view&id=184845",
+      "source": "vava8.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "中美关税延期两个月 ： 178项产品豁免落地 ， 出口链迎来缓冲窗口 _ 经济 _ 宏观频道首页 _ 财经网",
+      "url": "https://economy.caijing.com.cn/20261110/5192751.shtml",
+      "source": "economy.caijing.com.cn",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "社评 ： 担心在APEC被冷落 ？ 东京做贼心虚",
+      "url": "https://www.163.com/dy/article/LBC137OS05504DOQ.html",
+      "source": "163.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Fuertes subidas en Europa",
+      "url": "https://www.granadahoy.com/opinion/analisis/fuertes-subidas-europa_0_2008460921.html",
+      "source": "granadahoy.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "【 名家指點 】 美政壇變天 利好港股港樓",
+      "url": "https://www.hkcd.com/hkcdweb/content/2026/11/10/content_8784466.html",
+      "source": "hkcd.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "経常黒字１７兆１４８２億円 ２６年度上期減 、 原油が高騰 ： 中日新聞Web",
+      "url": "https://www.chunichi.co.jp:443/article/1337154",
+      "source": "chunichi.co.jp",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Journey Announces Third Quarter 2026 Financial and Operating Results ; Expands 2026 Capital Program",
+      "url": "https://www.northernnews.ca/press-releases/newsfile/journey-announces-third-quarter-2026-financial-and-operating-results-expands-2026-capital-program/",
+      "source": "northernnews.ca",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "استطلاع : تزايد قلق الأمريكيين بشأن آفاق سوق العمل",
+      "url": "https://akhbaregy.com/2026/11/10/%D8%A7%D8%B3%D8%AA%D8%B7%D9%84%D8%A7%D8%B9-%D8%AA%D8%B2%D8%A7%D9%8A%D8%AF-%D9%82%D9%84%D9%82-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D9%8A%D9%86-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A2%D9%81%D8%A7/",
+      "source": "akhbaregy.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Asian stocks climb as sliding oil prices lift sentiment",
+      "url": "https://www.examiner.com.au/story/9389055/asian-stocks-climb-as-sliding-oil-prices-lift-sentiment/",
+      "source": "examiner.com.au",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "美股科技股強彈帶動亞股反攻 ！ 韓股飆逾5 %、 台股大漲逾1 , 100點 | 財經",
+      "url": "https://newtalk.tw/news/view/2026-11-10/1070209",
+      "source": "newtalk.tw",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Neo Performance Materials Reports Third Quarter 2026 Results",
+      "url": "https://www.timminspress.com/press-releases/pr-newswire/neo-performance-materials-reports-third-quarter-2026-results/",
+      "source": "timminspress.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Leones del Escogido vencen a Toros y siguen líderes de LIDOM",
+      "url": "https://noticiassin.com/deportes/beisbol/2026/11/10/leones-del-escogido-vencen-a-toros-y-siguen-lideres-de-lidom-2166695/",
+      "source": "noticiassin.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Russian oil dominance faces sudden collapse : rising shipping expenses pushed Indian buyers away",
+      "url": "https://english.pravda.ru/news/business/172158-india-cuts-russian-crude-imports/",
+      "source": "english.pravda.ru",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "ATO targets rental deductions : why landlords face tax bills",
+      "url": "https://www.camdencourier.com.au/story/9388782/ato-targets-rental-deductions-why-landlords-face-tax-bills/",
+      "source": "camdencourier.com.au",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "美股三大指數狂飆 半導體 、 光通信集體爆發",
+      "url": "https://www.hkcd.com/hkcdweb/content/2026/11/10/content_8784475.html",
+      "source": "hkcd.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Oregon U . S . Sen . Wyden says hell use most powerful Senate committee to undo Republican cuts",
+      "url": "https://portlandtribune.com/2026/11/09/oregons-u-s-sen-wyden-says-hell-use-most-powerful-senate-committee-to-undo-republican-cuts/",
+      "source": "portlandtribune.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "[ 특징주 ] 美 증시 훈풍 · 반도체 지수 급등에 … 장 초반 삼전 · SK하닉 5~6 % 대 강세",
+      "url": "https://www.etoday.co.kr/news/view/2646099",
+      "source": "etoday.co.kr",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Power Solutions International Strengthens Longstanding HD Construction Equipment Partnership with Multi - Year Engine Supply Commitment",
+      "url": "https://www.northernnews.ca/press-releases/globe-newswire/power-solutions-international-strengthens-longstanding-hd-construction-equipment-partnership-with-multi-year-engine-supply-commitment/",
+      "source": "northernnews.ca",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "專家看盤 》 台股拚千點反彈 ！ 三關鍵 「 5日線 、 成交量 、 外資空單 」 一次看 | 財經",
+      "url": "https://newtalk.tw/news/view/2026-11-10/1070237",
+      "source": "newtalk.tw",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Hagnaður Stefnis tvöfaldast og var yfir 1 . 600 milljónir",
+      "url": "https://www.visir.is/g/20222241288d/hagnadur-stefnis-tvofaldast-og-var-yfir-1.600-milljonir",
+      "source": "visir.is",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "ATO targets rental deductions : why landlords face tax bills",
+      "url": "https://www.cootamundraherald.com.au/story/9388782/ato-targets-rental-deductions-why-landlords-face-tax-bills/",
+      "source": "cootamundraherald.com.au",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Nigeria debt servicing to consume 72 % of revenue",
+      "url": "https://thesun.ng/nigerias-debt-servicing-to-consume-72-of-revenue-by-2030-dmo/",
+      "source": "thesun.ng",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "览富资讯2026 . 11 . 10 _ 个股资讯 _ 市场 _ 中金在线",
+      "url": "http://sc.stock.cnfol.com/ggzixun/20261110/32419729.shtml",
+      "source": "sc.stock.cnfol.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Corporativo Kosmos fortalece transparencia con Fundación Pablo Landsmas",
+      "url": "https://www.sdpnoticias.com/estados/corporativo-kosmos-fortalece-transparencia-con-fundacion-pablo-landsmas/",
+      "source": "sdpnoticias.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Asian stocks climb as sliding oil prices lift sentiment",
+      "url": "https://www.goulburnpost.com.au/story/9389055/asian-stocks-climb-as-sliding-oil-prices-lift-sentiment/",
+      "source": "goulburnpost.com.au",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Millar Western announces indefinite curtailment of Quesnel River Pulp : My Prince George Now",
+      "url": "https://www.myprincegeorgenow.com/255344/news/environment/forestry/millar-western-announces-indefinite-curtailment-of-quesnel-river-pulp/",
+      "source": "myprincegeorgenow.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Journey Announces Third Quarter 2026 Financial and Operating Results ; Expands 2026 Capital Program",
+      "url": "https://www.timminspress.com/press-releases/newsfile/journey-announces-third-quarter-2026-financial-and-operating-results-expands-2026-capital-program/",
+      "source": "timminspress.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "ATO targets rental deductions : why landlords face tax bills",
+      "url": "https://www.braidwoodtimes.com.au/story/9388782/ato-targets-rental-deductions-why-landlords-face-tax-bills/",
+      "source": "braidwoodtimes.com.au",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "券商晨会精华 ： 个人Agent及世界模型密集发布 ， 交互入口迎来价值重估 _ 市场测评 _ 市场 _ 中金在线",
+      "url": "http://sc.stock.cnfol.com/shichangceping/20261110/32419647.shtml",
+      "source": "sc.stock.cnfol.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "11月10日投资避雷针 ： 特朗普称结束伊朗战争出现积极势头 布油重挫近6 %_ 市场测评 _ 市场 _ 中金在线",
+      "url": "http://sc.stock.cnfol.com/shichangceping/20261110/32419648.shtml",
+      "source": "sc.stock.cnfol.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "國安基金護盤後台股漲勢如何 ？ 群益投信 ： 歷次平均上漲機率約八成 | 股市要聞 | 股市",
+      "url": "https://udn.com/news/story/7251/9868387",
+      "source": "udn.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Power Solutions International Strengthens Longstanding HD Construction Equipment Partnership with Multi - Year Engine Supply Commitment",
+      "url": "https://www.timminspress.com/press-releases/globe-newswire/power-solutions-international-strengthens-longstanding-hd-construction-equipment-partnership-with-multi-year-engine-supply-commitment/",
+      "source": "timminspress.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Oil falls as Trump downplays prospect of escalation with Iran",
+      "url": "https://www.thestar.com.my/business/business-news/2026/11/10/oil-falls-as-trump-downplays-prospect-of-escalation-with-iran",
+      "source": "thestar.com.my",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Нафтогаз Украины : тариф на газ и цены других поставщиков – как их сравнить",
+      "url": "https://www.obozrevatel.com/section-ekonomika-glavnaya/communalka/news-taryf-na-haz-z-1-hrudnya-skilky-koshtuvatyme-kubometr-10-11-2026.html",
+      "source": "obozrevatel.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "美国10月CPI今晚来袭 ： 同比数据罕见缺失 能否巩固12月加息预期 ？_ 国际财经 _ 财经 _ 中金在线",
+      "url": "http://news.cnfol.com/guojicaijing/20261110/32419721.shtml",
+      "source": "news.cnfol.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "ATO targets rental deductions : why landlords face tax bills | The Examiner",
+      "url": "https://www.examiner.com.au/story/9388782/ato-targets-rental-deductions-why-landlords-face-tax-bills/",
+      "source": "examiner.com.au",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "دعاء النوم .. بـ آية قرآنية واحدة يجعل الله لك حارسا من الملائكة",
+      "url": "https://akhbaregy.com/2026/11/10/%D8%AF%D8%B9%D8%A7%D8%A1-%D8%A7%D9%84%D9%86%D9%88%D9%85-%D8%A8%D9%80-%D8%A2%D9%8A%D8%A9-%D9%82%D8%B1%D8%A2%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D8%AD%D8%AF%D8%A9-%D9%8A%D8%AC%D8%B9%D9%84-%D8%A7%D9%84/",
+      "source": "akhbaregy.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Democrat Eileen Laubacher declares victory over Rep . Lauren Boebert in Colorado 4th Congressional District – The Mercury News",
+      "url": "https://www.mercurynews.com/2026/11/09/lauren-boebert-election-results-eileen-laubacher-colorado/",
+      "source": "mercurynews.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Kevin Alcántara guía triunfo del Licey sobre Águilas 8 - 6",
+      "url": "https://noticiassin.com/deportes/beisbol/2026/11/10/kevin-alcantara-guia-triunfo-del-licey-sobre-aguilas-8-6-2166700/",
+      "source": "noticiassin.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "China suspenderá durante dos meses el arancel adicional del 24 % a productos de EU – Periódico Zócalo",
+      "url": "https://www.zocalo.com.mx/china-suspendera-durante-dos-meses-el-arancel-adicional-del-24-a-productos-de-eu/",
+      "source": "zocalo.com.mx",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Democrats won big . Can they lower your grocery bill ?",
+      "url": "https://www.ijpr.org/npr-news/2026-11-09/democrats-won-big-can-they-lower-your-grocery-bill",
+      "source": "ijpr.org",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Oregon U . S . Sen . Wyden says hell use most powerful Senate committee to undo Republican cuts",
+      "url": "https://eastoregonian.com/2026/11/09/oregons-u-s-sen-wyden-says-hell-use-most-powerful-senate-committee-to-undo-republican-cuts/",
+      "source": "eastoregonian.com",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "ATO targets rental deductions : why landlords face tax bills",
+      "url": "https://www.mandurahmail.com.au/story/9388782/ato-targets-rental-deductions-why-landlords-face-tax-bills/",
+      "source": "mandurahmail.com.au",
+      "firstSeenAt": "2026-11-10T08:30:00+05:30"
+    },
+    {
+      "title": "Giá dầu thế giới lao dốc khi Tổng thống Mỹ phát tín hiệu kiềm chế quân sự với Iran",
+      "url": "https://baocantho.com.vn/gia-dau-the-gioi-lao-doc-khi-tong-thong-my-phat-tin-hieu-kiem-che-quan-su-voi-iran-a220730.html",
+      "source": "baocantho.com.vn",
+      "firstSeenAt": "2026-11-10T08:00:00+05:30"
+    },
+    {
+      "title": "AMERICA MIDTERM ELECTIONS : LESSONS FOR NIGERIA 2027 – THISDAYLIVE",
+      "url": "https://www.thisdaylive.com/2026/11/10/americas-midterm-elections-lessons-for-nigeria-2027/",
+      "source": "thisdaylive.com",
+      "firstSeenAt": "2026-11-10T08:00:00+05:30"
+    },
+    {
+      "title": "क्या भारतीय शेयर बाजार में निवेश का बेहतर मौका बन रहा है ?",
+      "url": "https://www.sharemanthan.in/contact-us/462-advice/80113-is-a-better-opportunity-for-investment-emerging-in-the-indian-stock-market",
+      "source": "sharemanthan.in",
+      "firstSeenAt": "2026-11-10T08:00:00+05:30"
+    },
+    {
+      "title": "加拿大延长对部分美国进口商品的关税减免至2028年 _ 东方财富网",
+      "url": "https://finance.eastmoney.com/a/202611103927137293.html",
+      "source": "finance.eastmoney.com",
+      "firstSeenAt": "2026-11-10T08:00:00+05:30"
+    },
+    {
+      "title": "Việt Nam nằm trong nhóm 13 quốc gia giữ ổn định an ninh năng lượng",
+      "url": "https://baochinhphu.vn/viet-nam-nam-trong-nhom-13-quoc-gia-giu-on-dinh-an-ninh-nang-luong-102261110085831986.htm",
+      "source": "baochinhphu.vn",
+      "firstSeenAt": "2026-11-10T08:00:00+05:30"
+    },
+    {
+      "title": "和平预期压顶 ， 油价跌至8月以来最低后还有多少空间 ？_ 国际原油市场 _ 黄金网 _ 中金在线",
+      "url": "http://gold.cnfol.com/guojiyuanyousc/20261110/32419756.shtml",
+      "source": "gold.cnfol.com",
+      "firstSeenAt": "2026-11-10T08:00:00+05:30"
+    },
+    {
+      "title": "Democrat Eileen Laubacher declares victory over Rep . Lauren Boebert in Colorado 4th Congressional District – The Morning Call",
+      "url": "https://www.mcall.com/2026/11/09/lauren-boebert-election-results-eileen-laubacher-colorado/",
+      "source": "mcall.com",
+      "firstSeenAt": "2026-11-10T08:00:00+05:30"
+    },
+    {
+      "title": "ATO targets rental deductions : why landlords face tax bills",
+      "url": "https://www.hardenexpress.com.au/story/9388782/ato-targets-rental-deductions-why-landlords-face-tax-bills/",
+      "source": "hardenexpress.com.au",
+      "firstSeenAt": "2026-11-10T08:00:00+05:30"
+    },
+    {
+      "title": "Ringgit opens marginally higher against greenback amid cautious market sentiment",
+      "url": "https://www.thestar.com.my/business/business-news/2026/11/10/ringgit-opens-marginally-higher-against-greenback-amid-cautious-market-sentiment",
+      "source": "thestar.com.my",
+      "firstSeenAt": "2026-11-10T08:00:00+05:30"
+    }
+  ],
   "warnings": [
     "Query 1 failed: HTTP Error 429: Too Many Requests",
     "Query 2 failed: HTTP Error 429: Too Many Requests",
-    "Query 3 failed: HTTP Error 429: Too Many Requests",
     "Query 4 failed: HTTP Error 429: Too Many Requests"
   ],
   "notice": "Headlines and links only. Open the publisher source to verify details; coverage is not exhaustive."
