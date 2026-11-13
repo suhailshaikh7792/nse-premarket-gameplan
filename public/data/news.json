@@ -1,544 +1,430 @@
 {
-  "generatedAt": "2026-11-12T09:19:24.541459+05:30",
-  "windowStart": "2026-11-11T15:30:00+05:30",
-  "windowEnd": "2026-11-12T08:30:00+05:30",
+  "generatedAt": "2026-11-13T09:18:00.096986+05:30",
+  "windowStart": "2026-11-12T15:30:00+05:30",
+  "windowEnd": "2026-11-13T08:30:00+05:30",
   "timezone": "Asia/Kolkata",
   "provider": "GDELT DOC 2.0",
   "providerUrl": "https://www.gdeltproject.org/",
-  "articleCount": 88,
+  "articleCount": 69,
   "articles": [
     {
-      "title": "비주얼캠프  AI 시선추적 기반 문해력 솔루션 , 2026 대한민국 인공지능 대상 수상",
-      "url": "https://www.etnews.com/20261112000152",
-      "source": "etnews.com",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
+      "title": "欧元区高负债国成  风暴眼 ? 主权债风险再定价 - CFi . CN 中财网",
+      "url": "http://www.cfi.net.cn/p20261113000031.html",
+      "source": "cfi.net.cn",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
     },
     {
-      "title": "Journey towards Viksit Bharat must begin from villages : Himachal Guv",
-      "url": "https://www.dailyexcelsior.com/journey-towards-viksit-bharat-must-begin-from-villages-himachal-guv/",
-      "source": "dailyexcelsior.com",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
+      "title": "ACKO puts 80 % of media spend into creators and CTV",
+      "url": "https://www.afaqs.com/news/mktg/acko-puts-80-of-media-spend-into-creators-and-ctv-12804410",
+      "source": "afaqs.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
     },
     {
-      "title": "Africa - Casino & Gambling",
-      "url": "https://www.worldcasinodirectory.com/region/africa",
-      "source": "worldcasinodirectory.com",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
+      "title": "欧元区高负债国成  风暴眼 ? 主权债风险再定价 _ 东方财富网",
+      "url": "https://finance.eastmoney.com/a/202611133930023433.html",
+      "source": "finance.eastmoney.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
     },
     {
-      "title": "We opened the door to trade first . Then we stood still",
-      "url": "https://www.ft.lk/columns/We-opened-the-door-to-trade-first-Then-we-stood-still/4-799992",
-      "source": "ft.lk",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "United States - Lottery Results",
-      "url": "https://www.worldcasinodirectory.com/united-states/lottery",
-      "source": "worldcasinodirectory.com",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "2026 US Congress Midterm : Power , Policy and Global Impact",
-      "url": "https://www.dailyexcelsior.com/2026-us-congress-midterm-power-policy-and-global-impact/",
-      "source": "dailyexcelsior.com",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "India renewable energy expansion averts USD 100 bn in fuel imports : IEA",
-      "url": "https://www.dailyexcelsior.com/indias-renewable-energy-expansion-averts-usd-100-bn-in-fuel-imports-iea/",
-      "source": "dailyexcelsior.com",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "Dr . Alex Lissitsa of the DIHAG Group in an interview with Foundry - Planet",
-      "url": "https://www.foundry-planet.com/d/dr-alex-lissitsa-of-the-dihag-group-in-an-interview-with-foundry-planet",
-      "source": "foundry-planet.com",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "Transforming JK security , economy and political landscape",
-      "url": "https://www.dailyexcelsior.com/transforming-jks-security-economy-political-landscape/",
-      "source": "dailyexcelsior.com",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "茅台的  算盘",
-      "url": "https://www.stdaily.com/web/gdxw/2026-11/12/content_611858.html",
-      "source": "stdaily.com",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "HR profession defies global decline in hiring demand",
-      "url": "https://www.hcamag.com/nz/news/general/hr-profession-defies-global-decline-in-hiring-demand/597059",
-      "source": "hcamag.com",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "Stock Market LIVE : GIFT Nifty signals positive open ; Asian markets advance ; Nvidia drops 7 %",
-      "url": "https://www.business-standard.com/markets/news/stock-market-live-november-12-gift-nifty-nse-bse-sensex-today-nifty50-crude-oil-prices-q2-results-today-126111200066_1.html",
-      "source": "business-standard.com",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "Comment le coton dAfrique de lOuest peut - il reconquérir des parts de marché ? - Afrique économie",
-      "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20261111-comment-le-coton-d-afrique-de-l-ouest-peut-il-reconqu%C3%A9rir-des-parts-de-march%C3%A9",
-      "source": "rfi.fr",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "NetNewsLedger - How Ramaphosa 2026 Foreign Policy Could Affect Trade , Investment and Job Creation",
-      "url": "https://www.netnewsledger.com/2026/11/11/south-africa-brics-iran-foreign-policy-trade-jobs-2026/",
-      "source": "netnewsledger.com",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "汇市再起波澜 ！ 美元创19个月新高 、 日元逼近160警戒线 ， 高盛与德银齐发连续加息预警 _ 汇市观察 _ 外汇 _ 中金在线",
-      "url": "http://forex.cnfol.com/jingjiyaowen/20261112/32421539.shtml",
-      "source": "forex.cnfol.com",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "The Iran War is transforming liquefied natural gas deals",
-      "url": "https://www.marketplace.org/story/2026/11/11/the-iran-war-is-transforming-liquefied-natural-gas-deals",
-      "source": "marketplace.org",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "Petrobras amplia produo em 282 mil barris por dia",
-      "url": "https://acritica.net/economia/petrobras-amplia-capacidade-de-11-plataformas-em-282-mil-barris-por-dia/",
-      "source": "acritica.net",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "地狱般的争吵 ！ 以媒爆料 ： 特朗普和内塔尼亚胡电话里吵翻 ， 美以关系生变 ？_ 汇市观察 _ 外汇 _ 中金在线",
-      "url": "http://forex.cnfol.com/jingjiyaowen/20261112/32421538.shtml",
-      "source": "forex.cnfol.com",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "Cabinet extends Stand - up India Scheme - Daily Excelsior",
-      "url": "https://www.dailyexcelsior.com/cabinet-extends-stand-up-india-scheme/",
-      "source": "dailyexcelsior.com",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "Haycarb posts Rs . 40 . 6 b 1H revenue , PBT up 75 % to Rs . 4 b",
-      "url": "https://www.ft.lk/business/Haycarb-posts-Rs-40-6-b-1H-revenue-PBT-up-75-to-Rs-4-b/34-799967",
-      "source": "ft.lk",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "Inflación en EU y debilidad industrial presionan al peso mexicano",
-      "url": "https://www.globalmedia.mx/articles/inflacion_en_eu_y_debilidad_industrial_presionan_al_peso_mexicano",
-      "source": "globalmedia.mx",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "As  armadilha que Lula terá de desarmar na política externa já a partir do ano que vem",
-      "url": "https://www.terra.com.br/noticias/brasil/as-armadilhas-que-lula-tera-de-desarmar-na-politica-externa-ja-a-partir-do-ano-que-vem,bff7f0fdd2ebc722946ae6607cc5dcf8s0g655vl.html",
-      "source": "terra.com.br",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "Could next week meeting of this century  Big Three  end divide - and - conquer  forever war ? – World Tribune : U . S . Politics and Culture , Geostrategy , China , North Korea , Corporate Watch , Media Watch",
-      "url": "https://worldtribune.com/could-next-weeks-meeting-of-this-centurys-big-three-end-divide-and-conquer-forever-wars/",
-      "source": "worldtribune.com",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "ADNOC Gas 、 第3四半期に13億4 , 000万ドルの純利益を計上し業績回復",
-      "url": "https://www.chibanippo.co.jp/prwire/1691394",
-      "source": "chibanippo.co.jp",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "President to unveil investment - oriented 2027 Budget today , with relief for masses",
-      "url": "https://www.ft.lk/top-story/President-to-unveil-investment-oriented-2027-Budget-today-with-relief-for-masses/26-799953",
-      "source": "ft.lk",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "人民银行 ： 坚持实施好适度宽松的货币政策 凤凰网房产天津",
-      "url": "https://tj.house.ifeng.com/news/2026_11_12-57547798_0.shtml",
-      "source": "tj.house.ifeng.com",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "Gas prices fall below $4 as more oil flows , but experts warn relief may not last",
-      "url": "https://www.wtvr.com/science-and-tech/energy/gas-prices-fall-below-4-as-more-oil-flows-but-experts-warn-relief-may-not-last",
-      "source": "wtvr.com",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
-    },
-    {
-      "title": "CPI一刀下去 ， 金价跌一百美元 加息预期升温引发市场震动 _ 新闻频道 _ 中华网",
-      "url": "https://news.china.com/socialgd/10000169/20261112/49864795.html",
+      "title": "duanju爆火背后 汉语拼音撬动全球内容产业 _ 新闻频道 _ 中华网",
+      "url": "https://news.china.com/socialgd/10000169/20261113/49867461.html",
       "source": "news.china.com",
-      "firstSeenAt": "2026-11-12T08:30:00+05:30"
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
     },
     {
-      "title": "अमूल ने दूध की कीमतों में बढ़ोतरी का किया ऐलान",
-      "url": "https://www.tarunmitra.in/national/amul-announced-increase-in-milk-prices/article-171576",
-      "source": "tarunmitra.in",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
+      "title": "今晚过后加满一箱油可少花24 . 5元 油价大幅下调 _ 新闻频道 _ 中华网",
+      "url": "https://news.china.com/socialgd/10000169/20261113/49867529.html",
+      "source": "news.china.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
     },
     {
-      "title": "U . S . stocks rebound Wednesday , techs take the lead",
-      "url": "http://www.texasguardian.com/news/279427052/u-s-stocks-rebound-wednesday-techs-take-the-lead",
-      "source": "texasguardian.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
+      "title": "In Alaska legislative elections , a handful of races remain undecided nail - biters",
+      "url": "http://www.sitkasentinel.com/premium/stories/in-alaskas-legislative-elections-a-handful-of-races-remain-undecided-nail-biters,185866",
+      "source": "sitkasentinel.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
     },
     {
-      "title": "BT BIG STORY : The Rupee bounces back , but the ₹100 threat isnt gone yet",
-      "url": "https://www.businesstoday.in/latest/economy/story/bt-big-story-the-rupee-bounces-back-but-the-rs100-threat-isnt-gone-yet-566935-2026-11-12",
-      "source": "businesstoday.in",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
-    },
-    {
-      "title": "Stocks in news : Tata Power , Cupid , Garden Reach , ITC , Aurobindo Pharma and Vodafone Idea",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-power-cupid-garden-reach-itc-aurobindo-pharma-and-vodafone-idea/articleshow/135744904.cms",
-      "source": "economictimes.indiatimes.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
-    },
-    {
-      "title": "Andhra Plans Rule to Ringfence Investments from Political Flux : N Chandrababu Naidu",
-      "url": "https://economictimes.indiatimes.com/et-front/andhra-plans-rule-to-ringfenceinvestments-from-political-flux/articleshow/135749371.cms",
-      "source": "economictimes.indiatimes.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
-    },
-    {
-      "title": "Pre - market action : Here the trade setup for today session",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135751043.cms",
-      "source": "economictimes.indiatimes.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
-    },
-    {
-      "title": "Kameranya Cocok Buat Bikin Konten TikTok , Oppo Reno 17 Bawa Tiga Sensor 50MP",
-      "url": "https://momsmoney.kontan.co.id/news/kameranya-cocok-buat-bikin-konten-tiktok-oppo-reno-17-bawa-tiga-sensor-50mp",
-      "source": "momsmoney.kontan.co.id",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
-    },
-    {
-      "title": "COP31 : Beyond the negotiating rooms Organising to adapt and survive",
-      "url": "https://links.org.au/cop31-beyond-negotiating-rooms-organising-adapt-and-survive",
-      "source": "links.org.au",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
-    },
-    {
-      "title": "港股概念追踪 | 光伏能耗国标落地在即 行业基本面边际改善 ( 附概念股 )_ 股市直播 _ 市场 _ 中金在线",
-      "url": "http://sc.stock.cnfol.com/gushizhibo/20261112/32421502.shtml",
-      "source": "sc.stock.cnfol.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
-    },
-    {
-      "title": "Портные без порток . Рабочие швейных фабрик Бангладеша требуют поднять МРОТ",
-      "url": "https://aif.ru/money/economy/portnye-bez-portok-rabochie-shveynyh-fabrik-bangladesha-trebuyut-podnyat-mrot",
-      "source": "aif.ru",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
-    },
-    {
-      "title": "ET Interview : Andhra Pradesh plans rule to ringfence investments from political flux , says CM Naidu",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/et-interview-andhra-pradesh-plans-rule-to-ringfence-investments-from-political-flux-says-cm-naidu/articleshow/135747900.cms",
-      "source": "economictimes.indiatimes.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
-    },
-    {
-      "title": "Equity mutual fund inflows fall 14 % in October as investors trim smallcap exposure",
-      "url": "https://economictimes.indiatimes.com/mf/analysis/equity-mf-inflows-slide-14-large-midcaps-gain-traction/articleshow/135751158.cms",
-      "source": "economictimes.indiatimes.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
-    },
-    {
-      "title": "Sensex , Nifty hit 8 - month highs as banks , auto stocks rally",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-at-highest-since-february-as-indian-equities-thrive-amid-easing-crude-prices/articleshow/135751672.cms",
-      "source": "economictimes.indiatimes.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
-    },
-    {
-      "title": "AGI Announces Third Quarter 2026 Results & Provides Turnaround Plan Update",
-      "url": "https://www.simcoereformer.ca/press-releases/business-wire/agi-announces-third-quarter-2026-results-provides-turnaround-plan-update/",
+      "title": "Atlas Energy Corp Reports Third Quarter 2026 Financial Results",
+      "url": "https://www.simcoereformer.ca/press-releases/globe-newswire/atlas-energy-corp-reports-third-quarter-2026-financial-results/",
       "source": "simcoereformer.ca",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
     },
     {
-      "title": "U . S . stocks rebound Wednesday , techs take the lead",
-      "url": "http://www.stlouisstar.com/news/279427052/u-s-stocks-rebound-wednesday-techs-take-the-lead",
-      "source": "stlouisstar.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
+      "title": "21评论丨美国通胀惯性增强 ， 加息概率上升 _ 东方财富网",
+      "url": "https://finance.eastmoney.com/a/202611133930092244.html",
+      "source": "finance.eastmoney.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
     },
     {
-      "title": "Luxury housing demand rises in India as festive season drives premium project launches",
-      "url": "https://www.businesstoday.in/real-estate/story/luxury-housing-demand-rises-in-india-as-festive-season-drives-premium-project-launches-566842-2026-11-12",
-      "source": "businesstoday.in",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
+      "title": "早报丨黄仁勋卸任离场 ， 美国司法部将调查英伟达 ； 特斯拉与SpaceX合并推进 ， 最快12月公布 ； 思科上调全年指引 ， 应用材料交出亮眼业绩 _ 东方财富网",
+      "url": "https://finance.eastmoney.com/a/202611133930295541.html",
+      "source": "finance.eastmoney.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
     },
     {
-      "title": "Sensex at 773 points , Nifty tops 25 , 250 | The Shillong Times",
-      "url": "https://theshillongtimes.com/2026/11/12/sensex-at-773-points-nifty-tops-25250/",
-      "source": "theshillongtimes.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
+      "title": "英伟达大跌13 % 市值蒸发超5000亿美元 黄仁勋辞职引发震动 _ 新闻频道 _ 中华网",
+      "url": "https://news.china.com/socialgd/10000169/20261113/49867373.html",
+      "source": "news.china.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
     },
     {
-      "title": "Rupee at 92 or 100 per dollar ? GTRI and Axis Bank differ on how long India currency rally can last",
-      "url": "https://www.businesstoday.in/latest/economy/story/rupee-at-92-or-100-per-dollar-gtri-and-axis-bank-differ-on-how-long-indias-currency-rally-can-last-566913-2026-11-11",
-      "source": "businesstoday.in",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
+      "title": "Aventus Reports Q3 Results for the Quarter Ended September 30 , 2026",
+      "url": "https://www.simcoereformer.ca/press-releases/business-wire/aventus-reports-q3-results-for-the-quarter-ended-september-30-2026/",
+      "source": "simcoereformer.ca",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
     },
     {
-      "title": "India – EU FTA €119 billion trade promise : Could Europe fiscal troubles threaten Indian exporters ?",
-      "url": "https://www.businesstoday.in/latest/economy/story/india-eu-ftas-eu119-billion-trade-promise-could-europes-fiscal-troubles-threaten-indian-exporters-566925-2026-11-12",
-      "source": "businesstoday.in",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
+      "title": "Giá xăng dầu hôm nay 13 / 11 : Sản lượng dầu thô tăng tạo sức ép lên giá",
+      "url": "https://vietbao.vn/gia-xang-dau-hom-nay-1311-san-luong-dau-tho-tang-tao-suc-ep-len-gia-615661.html",
+      "source": "vietbao.vn",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
     },
     {
-      "title": "央行 ： 加力实施支持资本市场的两项货币政策工具 ， 用好债市非银大额赎回互换便利 ， 维护股票 、 债券 、 外汇等金融市场平稳运行 _ 国内财经 _ 财经 _ 中金在线",
-      "url": "http://news.cnfol.com/guoneicaijing/20261112/32421516.shtml",
-      "source": "news.cnfol.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
+      "title": "中信建投银行业2027年投资策略 ： 继续看好稳健高股息红利策略 _ 东方财富网",
+      "url": "https://finance.eastmoney.com/a/202611133930284556.html",
+      "source": "finance.eastmoney.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
     },
     {
-      "title": "我们正目睹乔布斯后科技史上最严重的逼宫",
-      "url": "https://www.163.com/dy/article/LBH8HLP705118O8G.html",
+      "title": "1600만원 빌렸는데 이자만 8억 … 연 3만6500 % 불법사채 일당 검거",
+      "url": "https://www.fnnews.com/news/202611130728034425",
+      "source": "fnnews.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "凌晨V形大反弹 ！ 美联储传出大消息 _ 东方财富网",
+      "url": "https://finance.eastmoney.com/a/202611133930099993.html",
+      "source": "finance.eastmoney.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "8点1氪丨英伟达宣布CEO黄仁勋辞职 ， 特朗普 ： 建议库克接任 ； 腾讯  裁员50 %？ 知情人士回应 ； 宣扬错误婚恋观 ， 德芙代运营方被罚80万|知名企业|蒂姆 · 库克|唐纳 · 川普",
+      "url": "https://www.163.com/dy/article/LBJP2QG805118DFD.html",
       "source": "163.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
     },
     {
-      "title": "Why are gas prices dropping and how low will they go ?",
-      "url": "https://www.koat.com/article/why-are-gas-prices-dropping-and-how-low-will-they-go/74404165",
-      "source": "koat.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
+      "title": "昨夜华尔街 : 指数小幅回调 半导体逆势狂飙 - CFi . CN 中财网",
+      "url": "http://www.cfi.net.cn/p20261113000075.html",
+      "source": "cfi.net.cn",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
     },
     {
-      "title": "Esta es la cotización del dólar hoy en pesos uruguayos al cierre del miércoles 11 de noviembre de 2026",
-      "url": "https://www.elpais.com.uy/negocios/finanzas/esta-es-la-cotizacion-del-dolar-hoy-en-pesos-uruguayos-al-cierre-del-miercoles-11-de-noviembre-de-2026",
-      "source": "elpais.com.uy",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
+      "title": "RNZ budget crisis threatens its core purpose . But there an obvious solution",
+      "url": "https://theconversation.com/rnzs-budget-crisis-threatens-its-core-purpose-but-theres-an-obvious-solution-296293",
+      "source": "theconversation.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
     },
     {
-      "title": "Why are gas prices dropping and how low will they go ?",
-      "url": "https://www.ksbw.com/article/why-are-gas-prices-dropping-and-how-low-will-they-go/74404165",
-      "source": "ksbw.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
+      "title": "They never learn - The Vindicator",
+      "url": "https://www.vindy.com/opinion/2026/11/they-never-learn/",
+      "source": "vindy.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
     },
     {
-      "title": "MARKETS LIVE : US stocks close higher as CoreWeave results revive AI optimism",
-      "url": "https://www.proactiveinvestors.com/companies/news/1101567/markets-live-us-stocks-close-higher-as-coreweave-results-revive-ai-optimism-1101567.html",
-      "source": "proactiveinvestors.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
+      "title": "U . S . jobless claims tick up to 200 , 000 but remain low by historic standards",
+      "url": "https://www.butlereagle.com/20261112/u-s-jobless-claims-tick-up-to-200000-but-remain-low-by-historic-standards/",
+      "source": "butlereagle.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
     },
     {
-      "title": "BREAKING : Nvidia preparing to OUST Jensen Huang as new affair revealed",
-      "url": "https://therightscoop.com/breaking-nvidia-preparing-to-oust-jensen-huang-as-new-affair-revealed/",
-      "source": "therightscoop.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
-    },
-    {
-      "title": "Why are gas prices dropping and how low will they go ?",
-      "url": "https://www.wmtw.com/article/why-are-gas-prices-dropping-and-how-low-will-they-go/74404165",
-      "source": "wmtw.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
-    },
-    {
-      "title": "黄金交易提醒 ： 通胀爆表 、 美元破位 、 加息板上钉钉 ， 金价续跌失守4000关口 ， 空头风暴  来了 ？_ 期市动态 _ 期货 _ 中金在线",
-      "url": "http://futures.cnfol.com/qishidongtai/20261112/32421582.shtml",
-      "source": "futures.cnfol.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
-    },
-    {
-      "title": "How the U . S . Dollar Changing Role Affects Global Trade",
-      "url": "https://www.phillyvoice.com/us-dollar-global-trade-foreign-exchange-businesses-0599988/",
-      "source": "phillyvoice.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
-    },
-    {
-      "title": "欧元兑英镑期权转向看涨 ！ 法国财政风险或已被过度定价 交易员押注汇率进一步反弹 _ 期市动态 _ 期货 _ 中金在线",
-      "url": "http://futures.cnfol.com/qishidongtai/20261112/32421477.shtml",
-      "source": "futures.cnfol.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
-    },
-    {
-      "title": "黄仁勋 ， 正在经历科技史上最凶险的逼宫",
-      "url": "https://www.163.com/dy/article/LBH8I4530511CSAO.html",
-      "source": "163.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
-    },
-    {
-      "title": "张尧浠 ： 美元上攻破位多头加强 、 金价连续回撤调整待再下探 _ 名家点金 _ 黄金网 _ 中金在线",
-      "url": "http://gold.cnfol.com/mingjiadianjin/20261112/32421562.shtml",
-      "source": "gold.cnfol.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
-    },
-    {
-      "title": "金观平 ： 贸易顺差与汇率水平不能简单画等号 _ 国内财经 _ 财经 _ 中金在线",
-      "url": "http://news.cnfol.com/guoneicaijing/20261112/32421559.shtml",
-      "source": "news.cnfol.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
-    },
-    {
-      "title": "Bank Stocks To Add to Your Watchlist – November 9th",
-      "url": "https://www.tickerreport.com/banking-finance/13659990/bank-stocks-to-add-to-your-watchlist-november-9th.html",
-      "source": "tickerreport.com",
-      "firstSeenAt": "2026-11-12T07:00:00+05:30"
-    },
-    {
-      "title": "David Bernar , CEO de Wolco : « Hemos aprendido más de los mexicanos que ellos de nosotros »",
-      "url": "https://www.elcorreo.com/talento-negocios/pymes/david-bernar-ceo-wolco-aprendido-mexicanos-20261112000647-nt.html",
-      "source": "elcorreo.com",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "迪迪虾牵手蓝心小V ： 比亚迪vivo六年合作再进阶 ， 腾势N8率先搭载AI跨端生态 - 手机快报 - ITBear科技资讯",
-      "url": "https://www.itbear.com.cn/html/2026-11/1583029.html",
-      "source": "itbear.com.cn",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "Promising Chinese Stocks To Keep An Eye On – November 9th",
-      "url": "https://www.themarketsdaily.com/2026/11/12/promising-chinese-stocks-to-keep-an-eye-on-november-9th.html",
-      "source": "themarketsdaily.com",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "USA Rare Earth Earnings Report Left Me With 1 Big Unanswered Question",
-      "url": "https://www.fool.com/investing/2026/11/11/usa-rare-earth-earnings-report-left-me-with-1-big/",
-      "source": "fool.com",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "U . S . stocks rebound Wednesday , techs take the lead",
-      "url": "http://www.baltimorestar.com/news/279427052/u-s-stocks-rebound-wednesday-techs-take-the-lead",
-      "source": "baltimorestar.com",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "U . S . stocks rebound Wednesday , techs take the lead",
-      "url": "http://www.europesun.com/news/279427052/u-s-stocks-rebound-wednesday-techs-take-the-lead",
-      "source": "europesun.com",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "U . S . stocks rebound Wednesday , techs take the lead",
-      "url": "http://www.russiaherald.com/news/279427052/u-s-stocks-rebound-wednesday-techs-take-the-lead",
-      "source": "russiaherald.com",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "BURUNDI - AFRICA / INTERNATIONAL : 09 MAI 2010 [ SA amidst sovereign debt contagion ]",
-      "url": "https://burundi-agnews.org/burundi-africa-international-09-mai-2010-sa-amidst-sovereign-debt-contagion/",
-      "source": "burundi-agnews.org",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "Nasdaq jumps 400 points as leading technology stocks surge",
-      "url": "http://www.thailandnews.net/news/279427052/nasdaq-jumps-400-points-as-leading-technology-stocks-surge",
-      "source": "thailandnews.net",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "« دي بي ورلد » تنقل مليون حاوية بين الساحل الشرقي للدولة وجبل علي منذ مارس",
-      "url": "https://www.emaratalyoum.com/business/local/2026-11-12-1.2101868",
-      "source": "emaratalyoum.com",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "ਝੋਨੇ ਦੀ ਖ਼ਰੀਦ ਬੰਦ ਕਰਨ ਦਾ ਵਿਰੋਧ - Punjabi Tribune",
-      "url": "https://www.punjabitribuneonline.com/news/sangrur/opposition-to-stopping-paddy-procurement/",
-      "source": "punjabitribuneonline.com",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "U . S . stocks rebound Wednesday , techs take the lead",
-      "url": "http://www.japanherald.com/news/279427052/u-s-stocks-rebound-wednesday-techs-take-the-lead",
-      "source": "japanherald.com",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "Airbnb vs . MercadoLibre : Which Consumer Stock Is a Better Buy for 2027 ?",
-      "url": "https://www.fool.com/coverage/better-buy/2026/11/11/airbnb-vs-mercadolibre-which-consumer-stock-is-a-better-buy-for-2027/",
-      "source": "fool.com",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "Torito se suma a la bienvenida al papa León XIV – JC Magazine",
-      "url": "https://jcmagazine.com/torito-se-suma-a-la-bienvenida-al-papa-leon-xiv/",
-      "source": "jcmagazine.com",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "USDA lowers U . S . corn production forecast , raises soybean outlook",
-      "url": "https://hpj.com/2026/11/11/november-10-wasde-report/",
-      "source": "hpj.com",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "U . S . stocks rebound Wednesday , techs take the lead",
-      "url": "http://www.albuquerqueexpress.com/news/279427052/u-s-stocks-rebound-wednesday-techs-take-the-lead",
-      "source": "albuquerqueexpress.com",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "AGI Announces Third Quarter 2026 Results & Provides Turnaround Plan Update",
-      "url": "https://www.theobserver.ca/press-releases/business-wire/agi-announces-third-quarter-2026-results-provides-turnaround-plan-update/",
-      "source": "theobserver.ca",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "حمدان بن محمد : دبي ستبقى مدينة الأفعال والإنجازات .. لا حدود لطموحاتها ولا سقف لنجاحاتها",
-      "url": "https://www.emaratalyoum.com/local-section/other/2026-11-12-1.2102019",
-      "source": "emaratalyoum.com",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "Bank ABC posts $165m nine - month profit as provisions weigh",
-      "url": "https://tradearabia.com:443/News/489619/Bank-ABC-posts-$165m-nine-month-profit-as-provisions-weigh",
-      "source": "tradearabia.com",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "What National Energy Services Reunited ( NESR ) Said on Its Q3 Earnings Call",
-      "url": "https://www.tickerreport.com/banking-finance/13659977/what-national-energy-services-reunited-nesr-said-on-its-q3-earnings-call.html",
-      "source": "tickerreport.com",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "Az EU védelmi egyeztetéseket tervez Katarral , szorosabbra vonná együttműködését az Öböl menti államokkal",
-      "url": "https://hu.euronews.com/2026/11/11/az-eu-vedelmi-egyezteteseket-tervez-katarral-szorosabbra-vonna-egyuttmukodeset-az-obol-men",
-      "source": "hu.euronews.com",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "عقود الإيجار الصناعية الجديدة في دبي ترتفع 25 . 7 %",
-      "url": "https://www.emaratalyoum.com/business/local/2026-11-12-1.2101850",
-      "source": "emaratalyoum.com",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "ΕΕ και Κατάρ ενισχύουν την αμυντική συνεργασία με συνομιλίες ασφάλειας στη Ντόχα",
-      "url": "https://gr.euronews.com/2026/11/11/ee-katar-enisxyoyn-amyntikh-synergasia-synomilies-asfaleias-ntoxa",
-      "source": "gr.euronews.com",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "Κοινό μέτωπο των Προέδρων των Κοινοβουλίων Κύπρου , Ελλάδας και Αιγύπτου για το τουρκολιβυκό μνημόνιο",
-      "url": "https://www.politis.com.cy/politis-news/politiki/1067312/koino-metopo-ton-proedron-ton-koinovoylion-kyproy-elladas-kai-aighyptoy-ghia-to-toyrkoliviko-mnimonio",
-      "source": "politis.com.cy",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "Dell Technologies vs . Taiwan Semiconductor : Which Technology Stock Is a Better Buy for 2027 ?",
-      "url": "https://www.fool.com/coverage/better-buy/2026/11/11/dell-technologies-vs-taiwan-semiconductor-which-technology-stock-is-a-better-buy-for-2027/",
-      "source": "fool.com",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
-    },
-    {
-      "title": "资金回流科技板块 35只ETF单日涨超5 %",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-12/doc-iniykzmu8849912.shtml",
+      "title": "净值曲线上的那个  坑  理财产品为何回撤 _ 新浪财经 _ 新浪网",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-13/doc-iniypvhp3690317.shtml",
       "source": "finance.sina.com.cn",
-      "firstSeenAt": "2026-11-12T06:00:00+05:30"
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "美股存储芯片股深夜下挫 ， 英伟达 、 闪迪跌超4 %， 美国AI云龙头跌近17 %， 黄金白银跳水",
+      "url": "https://www.163.com/dy/article/LBJOFSHI05199NPP.html",
+      "source": "163.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "Denuncian que el gobierno de Kicillof frena habilitaciones de geriátricos y deja sin cobertura a jubilados",
+      "url": "https://www.mdzol.com/politica/2026/11/12/denuncian-que-el-gobierno-de-kicillof-frena-habilitaciones-de-geriatricos-y-deja-sin-cobertura-a-jubilados-1995083.html",
+      "source": "mdzol.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "Dólar dispara 1 , 58 % e fecha a R$ 5 , 65 , maior nível em 17 meses",
+      "url": "https://jmonline.com.br/geral/dolar-dispara-1-58-e-fecha-a-r-5-65-maior-nivel-em-17-meses-1.684018",
+      "source": "jmonline.com.br",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "Condor Announces 2026 Third Quarter Results and Record Production of 18 , 631 boe / d",
+      "url": "https://www.simcoereformer.ca/press-releases/globe-newswire/condor-announces-2026-third-quarter-results-and-record-production-of-18631-boe-d/",
+      "source": "simcoereformer.ca",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "Midterms expose risks of gerrymandering , but prospects for reform remain murky",
+      "url": "https://bakersfieldnow.com/news/nation-world/midterms-expose-risks-of-gerrymandering-but-prospects-for-reform-remain-murky-mid-decade-redistricting-midterm-elections-census",
+      "source": "bakersfieldnow.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "法国社会动荡折射深层经济困境 _ 东方财富网",
+      "url": "https://finance.eastmoney.com/a/202611133930074714.html",
+      "source": "finance.eastmoney.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "Cùng kiến tạo năng lượng cho TPHCM xanh hơn",
+      "url": "https://www.sggp.org.vn/cung-kien-tao-nang-luong-cho-tphcm-xanh-hon-post881511.html",
+      "source": "sggp.org.vn",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "Exchange Income Corporation Posts Record Results in the Third Quarter , Upgrades 2026 Guidance and Issues 2027 Adjusted EBITDA Guidance in excess of $1 billion",
+      "url": "https://www.simcoereformer.ca/press-releases/business-wire/exchange-income-corporation-posts-record-results-in-the-third-quarter-upgrades-2026-guidance-and-issues-2027-adjusted-ebitda-guidance-in-excess-of-1-billion/",
+      "source": "simcoereformer.ca",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "Grattan | Labor government hits turbulence as wages slump lingers | Redland City Bulletin",
+      "url": "https://www.redlandcitybulletin.com.au/story/9390905/grattan-labor-government-hits-turbulence-as-wages-slump-lingers/",
+      "source": "redlandcitybulletin.com.au",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "Republicans score rare blue - to - red flip in Maine during landslide",
+      "url": "https://www.sbsun.com/2026/11/12/election-2026-republican-flip/",
+      "source": "sbsun.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "美元触及19个月新高 美联储加息预期持续升温 - CFi . CN 中财网",
+      "url": "http://www.cfi.net.cn/p20261113000080.html",
+      "source": "cfi.net.cn",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "US stocks end day lower as oil climbs , Europe closes mixed",
+      "url": "https://aa.com.tr/en/americas/us-stocks-end-day-lower-as-oil-climbs-europe-closes-mixed/4123520",
+      "source": "aa.com.tr",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "Grupo Davivienda ganó $ 1 , 85 billones a septiembre y entra en nueva etapa tras incorporar a Davibank",
+      "url": "https://www.eltiempo.com/economia/sector-financiero/grupo-davivienda-gano-1-85-billones-a-septiembre-y-entra-en-nueva-etapa-tras-incorporar-a-davibank-3600652",
+      "source": "eltiempo.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "再融资政策持续优化 可转债发行向  硬科技  放量 _ 东方财富网",
+      "url": "https://finance.eastmoney.com/a/202611133930045498.html",
+      "source": "finance.eastmoney.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "原油 ： 油价上涨 特朗普称美国不需要与伊朗达成协议 - CFi . CN 中财网",
+      "url": "http://www.cfi.net.cn/p20261113000079.html",
+      "source": "cfi.net.cn",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "美股存储芯片股深夜下挫 ， 英伟达 、 闪迪跌超4 %",
+      "url": "https://www.163.com/dy/article/LBJNQIB105199NPP.html",
+      "source": "163.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "Canada threatens to sue Stellantis over auto plant sale as Trump trade war shifts production south",
+      "url": "http://www.sitkasentinel.com/stories/canada-threatens-to-sue-stellantis-over-auto-plant-sale-as-trumps-trade-war-shifts-production,185849",
+      "source": "sitkasentinel.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "Phố Wall chao đảo trước cú sốc Nvidia",
+      "url": "https://baomoi.com/pho-wall-chao-dao-truoc-cu-soc-nvidia-c56499833.epi",
+      "source": "baomoi.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "Ajuste fiscal de Lula vai de supersalários a incentivos tributários : entenda o plano de R$ 60 bi aprovado pelo Senado",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/11/12/ajuste-fiscal-de-lula-vai-de-supersalarios-a-incentivos-tributarios-entenda-o-plano-de-r-60-bi-aprovado-pelo-senado.ghtml",
+      "source": "oglobo.globo.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "华泰证券 ： AI产业内部或沿回报验证分化 _ 东方财富网",
+      "url": "https://finance.eastmoney.com/a/202611133930273549.html",
+      "source": "finance.eastmoney.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "Carlos Vives y Grupo Niche , los primeros colombianos en ganar Latin Grammy 2026",
+      "url": "https://www.eluniversal.com.co/farandula/2026/11/12/carlos-vives-y-grupo-niche-los-primeros-colombianos-en-ganar-latin-grammy-2026/",
+      "source": "eluniversal.com.co",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "中信建投 ： 2026年前三季度医药板块经营持续改善 2027年趋势有望延续 _ 东方财富网",
+      "url": "https://finance.eastmoney.com/a/202611133930101157.html",
+      "source": "finance.eastmoney.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "不再  盯盘下单  多家银行上线积存金挂单功能 _ 东方财富网",
+      "url": "https://finance.eastmoney.com/a/202611133930090553.html",
+      "source": "finance.eastmoney.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "27 % fall in first - time buyer inquiries seen by Zoopla as people  pause and wait",
+      "url": "https://www.lbc.co.uk/article/3ccd061a27fd424d8dedfd7bd00ebfed-5HjdmKH_2/",
+      "source": "lbc.co.uk",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "In - House Opinions : Local representatives on post - midterm Congress",
+      "url": "https://www.sbsun.com/2026/11/12/in-house-opinions-local-representatives-on-post-midterm-congress/",
+      "source": "sbsun.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "Kazakhstan oil exports to Switzerland down 2 . 18 % in January - August",
+      "url": "https://www.trend.az/casia/kazakhstan/4245891.html",
+      "source": "trend.az",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "Senado aprova pacote de ajuste fiscal do governo",
+      "url": "https://veja.abril.com.br/economia/senado-aprova-projeto-de-lei-que-reduz-crescimento-de-despesas-e-corta-isencoes-tributarias/",
+      "source": "veja.abril.com.br",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "Dólar dispara 1 , 58 % e fecha a R$ 5 , 65 , maior nível em 17 meses",
+      "url": "https://arede.info/cotidiano/692775/dolar-dispara-158-e-fecha-a-r-565-maior-nivel-em-17-meses",
+      "source": "arede.info",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "托克大举建仓LME铝多头 ， 市场陷入数十年来最严峻逼仓局面 - CFi . CN 中财网",
+      "url": "http://www.cfi.net.cn/p20261113000051.html",
+      "source": "cfi.net.cn",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "净值曲线上的那个  坑  理财产品为何回撤 - CFi . CN 中财网",
+      "url": "http://www.cfi.net.cn/p20261113000083.html",
+      "source": "cfi.net.cn",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "Excesso de oferta | Jornal Económico",
+      "url": "https://jornaleconomico.sapo.pt/noticias/excesso-de-oferta/",
+      "source": "jornaleconomico.sapo.pt",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "从四川成都到陕西西安 ， 记者 跟车700多公里 ， 看新能源重卡何以越跑越远 （ 人民眼 · 推动新能源重卡规模化应用 ） _ 东方财富网",
+      "url": "https://finance.eastmoney.com/a/202611133930069097.html",
+      "source": "finance.eastmoney.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "Andy Burnham  failing familie as data shows 40 % rise in food prices , says SNP",
+      "url": "https://www.aol.co.uk/articles/andy-burnham-failing-families-data-000100000.html",
+      "source": "aol.co.uk",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "캐피탈사에 15조 더 풀어준다 … 렌터카업계  고사 위기",
+      "url": "https://www.fnnews.com/news/202611130850218091",
+      "source": "fnnews.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "再迎压力测试 ！ 36万亿银行理财闯关 ， 净值化考验持续 _ 东方财富网",
+      "url": "https://finance.eastmoney.com/a/202611123929902491.html",
+      "source": "finance.eastmoney.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "中秘自贸协定升级落地湖南 _ 央广网",
+      "url": "https://www.cnr.cn/hunan/gstjhunan/20261113/t20261113_527870615.shtml",
+      "source": "cnr.cn",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "华泰 | 房地产 ： 香港写字楼租金迎来同比拐点",
+      "url": "https://www.163.com/dy/article/LBJN0FOL05568W0A.html",
+      "source": "163.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "Víctor Martínez , experiencia y orgullo con la camiseta vinotinto",
+      "url": "https://www.prensa-latina.cu/2026/11/12/victor-martinez-experiencia-y-orgullo-con-la-camiseta-vinotinto/",
+      "source": "prensa-latina.cu",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "Giá xăng dầu hôm nay 13 / 11 : Dầu thế giới tiếp tục tăng",
+      "url": "https://baomoi.com/gia-xang-dau-hom-nay-13-11-dau-the-gioi-tiep-tuc-tang-c56499761.epi",
+      "source": "baomoi.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "വളര്‍മതി വീണ്ടും ആശുപത്രിയില്‍ ; പിന്തുണയുമായി പ്രതിപക്ഷം",
+      "url": "https://www.sirajlive.com/valarmathi-hospitalized-again-opposition-extends-support-tamil-nadu-politics.html",
+      "source": "sirajlive.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "El Nissan Qashqai cumple 20 años y lo celebra por todo lo alto : así ha evolucionado uno de los SUV más populares",
+      "url": "https://www.elconfidencialdigital.com/articulo/motor/nissan-qashqai-cumple-20-anos-celebra-todo-alto-asi-ha-evolucionado-uno-suv-mas-populares/202611122215501502049.html",
+      "source": "elconfidencialdigital.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "墨总统回应特朗普威胁 ： 未有移民大篷车抵达墨美边境 - 新华网",
+      "url": "https://www.news.cn/world/20261113/fc76b8f9b91b4b6e821fbc5001bb6398/c.html",
+      "source": "news.cn",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "外為8時30分 円相場 、 下落し159円台後半 対ユーロでは上昇",
+      "url": "https://www.nikkei.com/article/DGXZQOFL130B50T11C26A1000000/",
+      "source": "nikkei.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "El Manchester United y los nueve círculos de su propio infierno",
+      "url": "https://www.elplural.com/el-regate/manchester-united-nueve-circulos-propio-infierno_804001102",
+      "source": "elplural.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "Grattan | Labor government hits turbulence as wages slump lingers | The Inverell Times",
+      "url": "https://www.inverelltimes.com.au/story/9390905/grattan-labor-government-hits-turbulence-as-wages-slump-lingers/",
+      "source": "inverelltimes.com.au",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "美 트럼프  이란과 합의 필요 없다 ... 국제 유가 3 % 급등",
+      "url": "https://www.fnnews.com/news/202611130634077175",
+      "source": "fnnews.com",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "日元跌破160后关口快速反弹 分析师推断触发当局干预机制 - CFi . CN 中财网",
+      "url": "http://www.cfi.net.cn/p20261113000035.html",
+      "source": "cfi.net.cn",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
+    },
+    {
+      "title": "不再  盯盘下单  多家银行上线积存金挂单功能 _ 新浪财经 _ 新浪网",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-13/doc-iniypvhf1029819.shtml",
+      "source": "finance.sina.com.cn",
+      "firstSeenAt": "2026-11-13T06:15:00+05:30"
     }
   ],
   "warnings": [
-    "Query 2 failed: HTTP Error 429: Too Many Requests",
-    "Query 3 failed: HTTP Error 429: Too Many Requests"
+    "Query 1 failed: HTTP Error 429: Too Many Requests",
+    "Query 4 failed: HTTP Error 429: Too Many Requests"
   ],
   "notice": "Headlines and links only. Open the publisher source to verify details; coverage is not exhaustive."
 }
