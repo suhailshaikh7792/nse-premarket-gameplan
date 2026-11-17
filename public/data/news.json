@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-16T09:32:25.855168+05:30",
-  "windowStart": "2026-11-13T15:30:00+05:30",
-  "windowEnd": "2026-11-16T08:30:00+05:30",
+  "generatedAt": "2026-11-17T09:19:29.841578+05:30",
+  "windowStart": "2026-11-16T15:30:00+05:30",
+  "windowEnd": "2026-11-17T08:30:00+05:30",
   "timezone": "Asia/Kolkata",
   "provider": "GDELT DOC 2.0",
   "providerUrl": "https://www.gdeltproject.org/",
@@ -10,7 +10,6 @@
   "warnings": [
     "Query 1 failed: HTTP Error 429: Too Many Requests",
     "Query 2 failed: HTTP Error 429: Too Many Requests",
-    "Query 3 failed: HTTP Error 429: Too Many Requests",
     "Query 4 failed: HTTP Error 429: Too Many Requests"
   ],
   "notice": "Headlines and links only. Open the publisher source to verify details; coverage is not exhaustive."
