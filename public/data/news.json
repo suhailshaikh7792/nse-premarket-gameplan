@@ -1,137 +1,35 @@
 {
-  "generatedAt": "2026-11-18T09:20:57.758796+05:30",
-  "windowStart": "2026-11-17T15:30:00+05:30",
-  "windowEnd": "2026-11-18T08:30:00+05:30",
+  "generatedAt": "2026-11-19T09:22:26.834736+05:30",
+  "windowStart": "2026-11-18T15:30:00+05:30",
+  "windowEnd": "2026-11-19T08:30:00+05:30",
   "timezone": "Asia/Kolkata",
   "provider": "GDELT DOC 2.0",
   "providerUrl": "https://www.gdeltproject.org/",
-  "articleCount": 20,
+  "articleCount": 3,
   "articles": [
     {
-      "title": "محمود عنبر : الاقتصاد المصرى يرسخ مكانته كواجهة جاذبة للاستثمارات",
-      "url": "https://akhbaregy.com/2026/11/18/%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%B9%D9%86%D8%A8%D8%B1-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%89-%D9%8A%D8%B1%D8%B3%D8%AE-%D9%85%D9%83%D8%A7%D9%86%D8%AA/",
-      "source": "akhbaregy.com",
-      "firstSeenAt": "2026-11-18T06:45:00+05:30"
+      "title": "15 milijonov bančnih dokumentov : Epstein , Trump , ruski oligarhi in kupi denarja",
+      "url": "https://www.24ur.com/novice/gospodarstvo/15-milijonov-bancnih-dokumentov-epstein-trump-ruski-oligarhi-in-kupi-denarja.html",
+      "source": "24ur.com",
+      "firstSeenAt": "2026-11-18T23:00:00+05:30"
     },
     {
-      "title": "Giá xăng dầu sáng nay 18 / 11 : E10 RON95 và E5 RON92 ngày mai giảm cực sâu ? Diesel sẽ thủng đáy ? Giá đầy bình xe máy Honda",
-      "url": "https://www.techz.vn/178-1126-5-gia-xang-dau-sang-nay-18-11-e10-ron95-va-e5-ron92-ngay-mai-giam-cuc-sau-diesel-se-thung-day-gia-day-binh-xe-may-honda-ylt717561.html",
-      "source": "techz.vn",
-      "firstSeenAt": "2026-11-18T06:45:00+05:30"
+      "title": "〈 專文 〉 普丁克里米亞大橋遭重創 ！ 烏克蘭精準狙擊戳破俄帝國神話",
+      "url": "https://n.yam.com/Article/20261119492061",
+      "source": "n.yam.com",
+      "firstSeenAt": "2026-11-18T23:00:00+05:30"
     },
     {
-      "title": "Ford Motor vs . Stellantis : Which Automaker Titan Stock Is a Better Buy for 2027 ?",
-      "url": "https://www.fool.com/coverage/better-buy/2026/11/17/ford-motor-vs-stellantis-which-automaker-titan-stock-is-a-better-buy-for-2027/",
-      "source": "fool.com",
-      "firstSeenAt": "2026-11-18T06:45:00+05:30"
-    },
-    {
-      "title": "Prabowo Ingatkan Dampak Luas Konflik di Indo - Pasifik",
-      "url": "https://www.liputan6.com/news/read/8337348/prabowo-ingatkan-dampak-luas-konflik-di-indo-pasifik",
-      "source": "liputan6.com",
-      "firstSeenAt": "2026-11-18T06:45:00+05:30"
-    },
-    {
-      "title": "Giá xăng dầu sáng nay 18 / 11 : E10 RON95 và E5 RON92 chính thức chạm mốc rẻ , Diesel rơi tự do , giá đầy bình xe máy Yamaha",
-      "url": "https://www.techz.vn/178-1126-5-gia-xang-dau-sang-nay-18-11-e10-ron95-va-e5-ron92-chinh-thuc-cham-moc-re-diesel-roi-tu-do-gia-day-binh-xe-may-yamaha-ylt717562.html",
-      "source": "techz.vn",
-      "firstSeenAt": "2026-11-18T06:45:00+05:30"
-    },
-    {
-      "title": "黄仁勋辞职后首发声愿重返英伟达 董事会称无意让其回归",
-      "url": "https://original.ifeng.com/c/8y92tvst05r",
-      "source": "original.ifeng.com",
-      "firstSeenAt": "2026-11-18T06:45:00+05:30"
-    },
-    {
-      "title": "في حشد عسكري غير مسبوق منذ حرب العراق … واشنطن تجمع ثلاث حاملات طائرات في الشرق الأوسط – اليوم 24",
-      "url": "https://alyaoum24.com/2058187.html",
-      "source": "alyaoum24.com",
-      "firstSeenAt": "2026-11-18T06:45:00+05:30"
-    },
-    {
-      "title": "الرئيس السيسي : قيمة الاستثمار الأجنبي المباشر في مصر بلغت 18 مليار دولار .. أحمد موسى : حملات التضليل تستهدف الاقتصاد والشركات العالمية ترد على المشككين | أخبار التوك شو",
-      "url": "https://akhbaregy.com/2026/11/18/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A-%D9%82%D9%8A%D9%85%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A/",
-      "source": "akhbaregy.com",
-      "firstSeenAt": "2026-11-18T06:45:00+05:30"
-    },
-    {
-      "title": "Nearly 100 , 000 Iranians Shelter In Turkey As War , Blockade And Repression Fuel Unprecedented Brain Drain",
-      "url": "https://www.foreignpolicyjournal.com/2026/11/17/nearly-100000-iranians-shelter-in-turkey-as-war-blockade-and-repression-fuel-unprecedented-brain-drain/",
-      "source": "foreignpolicyjournal.com",
-      "firstSeenAt": "2026-11-18T06:45:00+05:30"
-    },
-    {
-      "title": "新加坡总理黄循财人民日报撰文 ： 新中携手 ， 共创开放互联的未来",
-      "url": "https://news.ifeng.com/c/8y95YP8QvBV",
-      "source": "news.ifeng.com",
-      "firstSeenAt": "2026-11-18T06:45:00+05:30"
-    },
-    {
-      "title": "India 100 GW Nuclear Target Anchors Asia Bid To Dominate Global Atomic Energy Expansion",
-      "url": "https://www.foreignpolicyjournal.com/2026/11/17/indias-100-gw-nuclear-target-anchors-asias-bid-to-dominate-global-atomic-energy-expansion/",
-      "source": "foreignpolicyjournal.com",
-      "firstSeenAt": "2026-11-18T06:45:00+05:30"
-    },
-    {
-      "title": "Trump no solo llegó tarde a la cumbre del sudeste asiático . Llegó muy tarde",
-      "url": "https://www.clarin.com/new-york-times-international-weekly/trump-solo-llego-tarde-cumbre-sudeste-asiatico-llego-tarde_0_thnzjrKGsI.html",
-      "source": "clarin.com",
-      "firstSeenAt": "2026-11-18T06:45:00+05:30"
-    },
-    {
-      "title": "油价受全球供应风险推动走高 _ 国际原油市场 _ 黄金网 _ 中金在线",
-      "url": "http://gold.cnfol.com/guojiyuanyousc/20261118/32426018.shtml",
-      "source": "gold.cnfol.com",
-      "firstSeenAt": "2026-11-18T06:45:00+05:30"
-    },
-    {
-      "title": "深圳再出发 ， 亚太共命运",
-      "url": "https://www.163.com/dy/article/LC0JS4AB0514R9OJ.html",
-      "source": "163.com",
-      "firstSeenAt": "2026-11-18T06:45:00+05:30"
-    },
-    {
-      "title": "3 Dividend Kings to Buy in November That Could Pay You for the Rest of Your Life",
-      "url": "https://www.fool.com/investing/2026/11/17/3-dividend-kings-to-buy-in-november-that-could-pay-you-for-the-rest-of-your-life/",
-      "source": "fool.com",
-      "firstSeenAt": "2026-11-18T06:45:00+05:30"
-    },
-    {
-      "title": "Giá xăng dầu hôm nay 18 / 11 : Xăng E10 , xăng E5 , dầu diesel bao nhiêu một lít ?",
-      "url": "https://www.techz.vn/210-1126-5-gia-xang-dau-hom-nay-18-11-xang-e10-xang-e5-dau-diesel-bao-nhieu-mot-lit-ylt717556.html",
-      "source": "techz.vn",
-      "firstSeenAt": "2026-11-18T06:45:00+05:30"
-    },
-    {
-      "title": "Reserve Bank warns AI is speeding up cyber - attacks on NZ banks",
-      "url": "https://newswire.co.nz/2026/11/reserve-bank-of-new-zealand-warns-frontier-ai-is-speeding-up-cyber-attacks-and-giving-banks-less-time-to-fix-flaws/",
-      "source": "newswire.co.nz",
-      "firstSeenAt": "2026-11-18T06:45:00+05:30"
-    },
-    {
-      "title": "Giá xăng dầu sáng nay 18 / 11 : E10 RON95 và E5 RON92 đã cách đỉnh 11 . 000 đồng , Diesel cực bèo , giá đầy bình xe máy Piaggio",
-      "url": "https://www.techz.vn/178-1126-5-gia-xang-dau-sang-nay-18-11-e10-ron95-va-e5-ron92-da-cach-dinh-11000-dong-diesel-cuc-beo-gia-day-binh-xe-may-piaggio-ylt717563.html",
-      "source": "techz.vn",
-      "firstSeenAt": "2026-11-18T06:45:00+05:30"
-    },
-    {
-      "title": "Serangan di Selat Hormuz Dorong Harga Minyak Dunia",
-      "url": "https://www.liputan6.com/bisnis/read/8337362/serangan-di-selat-hormuz-dorong-harga-minyak-dunia",
-      "source": "liputan6.com",
-      "firstSeenAt": "2026-11-18T06:45:00+05:30"
-    },
-    {
-      "title": "Trump heads to China , betting on unscripted diplomacy with Xi and Putin",
-      "url": "https://www.wral.com/news/ap/3fc81-trump-heads-to-china-betting-on-unscripted-diplomacy-with-xi-and-putin/",
-      "source": "wral.com",
-      "firstSeenAt": "2026-11-18T06:45:00+05:30"
+      "title": "Συνάντηση γιγάντων : Τραμπ , Σι και Πούτιν στο ίδιο τραπέζι σε μια ιστορική συνάντηση",
+      "url": "https://www.e-radio.gr/post/337853/synantisi-gigantwn-tramp-si-kai-poytin-sto-idio-trapezi-se-mia-istoriki-synantisi",
+      "source": "e-radio.gr",
+      "firstSeenAt": "2026-11-18T23:00:00+05:30"
     }
   ],
   "warnings": [
     "Query 1 failed: HTTP Error 429: Too Many Requests",
-    "Query 2 failed: HTTP Error 429: Too Many Requests",
-    "Query 3 failed: HTTP Error 429: Too Many Requests"
+    "Query 3 failed: HTTP Error 429: Too Many Requests",
+    "Query 4 failed: HTTP Error 429: Too Many Requests"
   ],
   "notice": "Headlines and links only. Open the publisher source to verify details; coverage is not exhaustive."
 }
