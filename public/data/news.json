@@ -1,33 +1,15 @@
 {
-  "generatedAt": "2026-11-19T09:22:26.834736+05:30",
-  "windowStart": "2026-11-18T15:30:00+05:30",
-  "windowEnd": "2026-11-19T08:30:00+05:30",
+  "generatedAt": "2026-11-20T09:19:37.559819+05:30",
+  "windowStart": "2026-11-19T15:30:00+05:30",
+  "windowEnd": "2026-11-20T08:30:00+05:30",
   "timezone": "Asia/Kolkata",
   "provider": "GDELT DOC 2.0",
   "providerUrl": "https://www.gdeltproject.org/",
-  "articleCount": 3,
-  "articles": [
-    {
-      "title": "15 milijonov bančnih dokumentov : Epstein , Trump , ruski oligarhi in kupi denarja",
-      "url": "https://www.24ur.com/novice/gospodarstvo/15-milijonov-bancnih-dokumentov-epstein-trump-ruski-oligarhi-in-kupi-denarja.html",
-      "source": "24ur.com",
-      "firstSeenAt": "2026-11-18T23:00:00+05:30"
-    },
-    {
-      "title": "〈 專文 〉 普丁克里米亞大橋遭重創 ！ 烏克蘭精準狙擊戳破俄帝國神話",
-      "url": "https://n.yam.com/Article/20261119492061",
-      "source": "n.yam.com",
-      "firstSeenAt": "2026-11-18T23:00:00+05:30"
-    },
-    {
-      "title": "Συνάντηση γιγάντων : Τραμπ , Σι και Πούτιν στο ίδιο τραπέζι σε μια ιστορική συνάντηση",
-      "url": "https://www.e-radio.gr/post/337853/synantisi-gigantwn-tramp-si-kai-poytin-sto-idio-trapezi-se-mia-istoriki-synantisi",
-      "source": "e-radio.gr",
-      "firstSeenAt": "2026-11-18T23:00:00+05:30"
-    }
-  ],
+  "articleCount": 0,
+  "articles": [],
   "warnings": [
     "Query 1 failed: HTTP Error 429: Too Many Requests",
+    "Query 2 failed: HTTP Error 429: Too Many Requests",
     "Query 3 failed: HTTP Error 429: Too Many Requests",
     "Query 4 failed: HTTP Error 429: Too Many Requests"
   ],
