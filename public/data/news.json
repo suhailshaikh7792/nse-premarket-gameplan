@@ -1,17 +1,323 @@
 {
-  "generatedAt": "2026-11-23T09:27:44.595872+05:30",
-  "windowStart": "2026-11-20T15:30:00+05:30",
-  "windowEnd": "2026-11-23T08:30:00+05:30",
+  "generatedAt": "2026-11-24T09:24:21.744183+05:30",
+  "windowStart": "2026-11-23T15:30:00+05:30",
+  "windowEnd": "2026-11-24T08:30:00+05:30",
   "timezone": "Asia/Kolkata",
   "provider": "GDELT DOC 2.0",
   "providerUrl": "https://www.gdeltproject.org/",
-  "articleCount": 0,
-  "articles": [],
+  "articleCount": 51,
+  "articles": [
+    {
+      "title": "Oil Falls as Trump Signals Iran Talks",
+      "url": "https://www.rigzone.com/news/wire/oil_falls_as_trump_signals_iran_talks-23-nov-2026-185152-article/",
+      "source": "rigzone.com",
+      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+    },
+    {
+      "title": "Ontario gas prices expected to fall Wednesday : GTA forecast",
+      "url": "https://www.bramptonguardian.com/news/ontario-gas-price-prediction-for-nov-25/article_56eee1d2-d1e4-5d4e-8590-2b27f85eb662.html",
+      "source": "bramptonguardian.com",
+      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+    },
+    {
+      "title": "程强 ： 辉光日新 2027年年度策略报告",
+      "url": "https://www.163.com/dy/article/LCG9BRO00519IGF7.html",
+      "source": "163.com",
+      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+    },
+    {
+      "title": "El precio del petróleo cae a mínimos y presiona al sector energético",
+      "url": "http://puntobiz.com.ar/economia/el-precio-del-petroleo-cae-a-minimos-y-presiona-al-sector-energetico-2026112319280",
+      "source": "puntobiz.com.ar",
+      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+    },
+    {
+      "title": "خبير اقتصادي : تراجع تمويل برامج الإغاثة يهدد الأمن الغذائي العالمي",
+      "url": "https://akhbaregy.com/2026/11/24/%D8%AE%D8%A8%D9%8A%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A8%D8%B1%D8%A7%D9%85%D8%AC-%D8%A7%D9%84%D8%A5%D8%BA%D8%A7%D8%AB/",
+      "source": "akhbaregy.com",
+      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+    },
+    {
+      "title": "一个  稳  字谈何易 ！",
+      "url": "http://news.cyol.com/gb/xiaofei/articles/2026-11/24/content_2b03LguE6J.html",
+      "source": "news.cyol.com",
+      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+    },
+    {
+      "title": "Giá xăng dầu hôm nay 24 / 11 : E10 , E5 , dầu diesel dự báo sắp về đáy , 1 mặt hàng giảm đến 1 . 500 đồng",
+      "url": "https://www.techz.vn/187-1126-5-gia-xang-dau-hom-nay-24-11-e10-e5-dau-diesel-du-bao-sap-ve-day-1-mat-hang-giam-den-1500-dong-ylt718327.html",
+      "source": "techz.vn",
+      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+    },
+    {
+      "title": "郭磊 ： 潮汐之间 2027年宏观环境展望",
+      "url": "https://www.163.com/dy/article/LCG98I4O0519IGF7.html",
+      "source": "163.com",
+      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+    },
+    {
+      "title": "Giá xăng dầu hôm nay 24 . 11 . 2026 : Giảm sâu , xuống mức thấp nhất trong 3 tháng",
+      "url": "https://thanhnien.vn/gia-xang-dau-hom-nay-24112026-giam-sau-xuong-muc-thap-nhat-trong-3-thang-185261124084913483.htm",
+      "source": "thanhnien.vn",
+      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+    },
+    {
+      "title": "Bolsas asiáticas disparam após regresso de Jensen Huang à liderança da Nvidia",
+      "url": "https://executivedigest.sapo.pt/bolsas-asiaticas-disparam-apos-regresso-de-jensen-huang-a-lideranca-da-nvidia/",
+      "source": "executivedigest.sapo.pt",
+      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+    },
+    {
+      "title": "Jensen ! Jensen ! Jensen !: Nvidia employees chant Huang name as he makes stunning return as CEO | Watch",
+      "url": "https://www.livemint.com/companies/news/jensen-jensen-jensen-nvidia-employees-chant-huang-s-name-as-he-makes-stunning-return-as-ceo-watch-11795482992167.html",
+      "source": "livemint.com",
+      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+    },
+    {
+      "title": "Giá xăng dầu 24 / 11 : E5 giảm 7 . 451 đồng / lít , diesel giảm 3 . 899 đồng / lít sau 5 kỳ , lại sắp hạ thêm ?",
+      "url": "https://www.techz.vn/187-1126-5-bang-gia-xang-dau-24-11-e5-giam-7451-dong-lit-dau-diesel-giam-3899-dong-lit-sau-5-ky-du-bao-sap-ha-them-ylt718304.html",
+      "source": "techz.vn",
+      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+    },
+    {
+      "title": "Viento en contra de la causa Malvinas",
+      "url": "https://www.laprensa.com.ar/Viento-en-contra-de-la-causa-Malvinas-578131.note.aspx",
+      "source": "laprensa.com.ar",
+      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+    },
+    {
+      "title": "Giá xăng dầu sáng nay 24 / 11 : E10 RON95 và E5 RON92 đã cách đỉnh 12 . 000 đồng , Diesel cực bèo , giá đầy bình xe máy Piaggio",
+      "url": "https://www.techz.vn/178-1126-5-gia-xang-dau-sang-nay-24-11-e10-ron95-va-e5-ron92-da-cach-dinh-12000-dong-diesel-cuc-beo-gia-day-binh-xe-may-piaggio-ylt718309.html",
+      "source": "techz.vn",
+      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+    },
+    {
+      "title": "美新規堵漏洞 對東南亞數據中心有何影響",
+      "url": "https://www.epochtimes.com/b5/26/11/23/n14894042.htm",
+      "source": "epochtimes.com",
+      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+    },
+    {
+      "title": "Asian markets follow Wall Street : Nikkei , Kospi jump up to 8 % as Jensen Huang return sparks rally in AI stocks",
+      "url": "https://www.livemint.com/market/stock-market-news/asian-markets-follow-wall-street-nikkei-kospi-jump-up-to-8-as-jensen-huang-s-return-sparks-rally-in-ai-stocks-11795485047635.html",
+      "source": "livemint.com",
+      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+    },
+    {
+      "title": "Giá xăng dầu sáng nay 24 / 11 : E10 RON95 và E5 RON92 khả năng kỳ tới về đáy , Diesel rẻ cực bèo , giá đầy bình xe máy Yamaha",
+      "url": "https://www.techz.vn/178-1126-5-gia-xang-dau-sang-nay-24-11-e10-ron95-va-e5-ron92-kha-nang-ky-toi-ve-day-diesel-re-cuc-beo-gia-day-binh-xe-may-yamaha-ylt718308.html",
+      "source": "techz.vn",
+      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+    },
+    {
+      "title": "At AI speed , Nvidia Jensen Huang finds exoneration",
+      "url": "https://economictimes.indiatimes.com/news/international/business/at-ai-speed-nvidias-jensen-huang-finds-exoneration/articleshow/136117203.cms",
+      "source": "economictimes.indiatimes.com",
+      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+    },
+    {
+      "title": "Fat pays and job haze amid an AI wave : IITs kick off recruitments",
+      "url": "https://www.livemint.com/industry/iit-campus-placements-ai-jobs-hiring-trends-11795424140642.html",
+      "source": "livemint.com",
+      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+    },
+    {
+      "title": "不要小看中国经济  稳  的分量",
+      "url": "http://news.cyol.com/gb/xiaofei/articles/2026-11/24/content_YOv4RRSvOP.html",
+      "source": "news.cyol.com",
+      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+    },
+    {
+      "title": "为何总有人刻意  看空  中国经济 ？ 丨头条热评|证伪|宏观经济",
+      "url": "https://www.163.com/dy/article/LCETVAP30519AKBM.html",
+      "source": "163.com",
+      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+    },
+    {
+      "title": "赵伟 ： 法债困局 ， 何以终结 ？  大财政  系列|国债|偿债|利差",
+      "url": "https://www.163.com/dy/article/LCG9AAR70519IGF7.html",
+      "source": "163.com",
+      "firstSeenAt": "2026-11-24T08:00:00+05:30"
+    },
+    {
+      "title": "盘前 利好来了 ！ 黄仁勋 将出席听证会 ！ 美联储 重磅发声 ！ 当着美军面 3艘油轮爆炸 ！ 欧洲已准备好与俄罗斯谈判  _ 东方财富网",
+      "url": "https://finance.eastmoney.com/a/202611243937791278.html",
+      "source": "finance.eastmoney.com",
+      "firstSeenAt": "2026-11-24T08:00:00+05:30"
+    },
+    {
+      "title": "Singapore upgrades GDP forecast to around 6 % for 2026 , expects growth to moderate in 2027",
+      "url": "https://www.asiaone.com/singapore/gdp-economy-growth-q3-meti-forecast-2027-outlook",
+      "source": "asiaone.com",
+      "firstSeenAt": "2026-11-24T08:00:00+05:30"
+    },
+    {
+      "title": "促进亚太共同繁荣的科学路径指引",
+      "url": "https://www.qstheory.cn/20261124/fe46a7edaf28421db5502b7abb0e4b03/c.html",
+      "source": "qstheory.cn",
+      "firstSeenAt": "2026-11-24T08:00:00+05:30"
+    },
+    {
+      "title": "Танкерная халява обернулась ловушкой : дешёвая доставка не спасла российскую нефть от новых скидок",
+      "url": "https://www.pravda.ru/news/economics/2448407-urals-oil-freight-cost-drop/",
+      "source": "pravda.ru",
+      "firstSeenAt": "2026-11-24T08:00:00+05:30"
+    },
+    {
+      "title": "Как западните инвестиции в чиста енергия засилват зависимостта от Китай и Русия ?",
+      "url": "https://www.dnes.bg/a/2-svyat/743325-kak-zapadnite-investitsii-v-chista-energiya-zasilvat-zavisimostta-ot-kitay-i-rusiya",
+      "source": "dnes.bg",
+      "firstSeenAt": "2026-11-24T08:00:00+05:30"
+    },
+    {
+      "title": "COP31 : pour la société civile canadienne , la chaise vide de Carney en dit long - La Nouvelle Union et LAvenir de l  Érable",
+      "url": "https://www.lanouvelle.net/nouvelles-nationales/cop31-pour-la-societe-civile-canadienne-la-chaise-vide-de-carney-en-dit-long/",
+      "source": "lanouvelle.net",
+      "firstSeenAt": "2026-11-24T08:00:00+05:30"
+    },
+    {
+      "title": "原油交易提醒 ： 供应过剩担忧情绪施压油价 ， 谨防美原油空头加速 _ 国际原油市场 _ 黄金网 _ 中金在线",
+      "url": "http://gold.cnfol.com/guojiyuanyousc/20261124/32430564.shtml",
+      "source": "gold.cnfol.com",
+      "firstSeenAt": "2026-11-24T08:00:00+05:30"
+    },
+    {
+      "title": "COP31 : pour la société civile canadienne , la chaise vide de Carney en dit long",
+      "url": "https://www.courrierfrontenac.qc.ca/nouvelles-nationales/cop31-pour-la-societe-civile-canadienne-la-chaise-vide-de-carney-en-dit-long/",
+      "source": "courrierfrontenac.qc.ca",
+      "firstSeenAt": "2026-11-24T08:00:00+05:30"
+    },
+    {
+      "title": "黄仁勋没穿皮衣 ， 被女员工拥抱 ， 危机解除了 ？",
+      "url": "https://www.163.com/dy/article/LCG7VA9J0514BE2Q.html",
+      "source": "163.com",
+      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+    },
+    {
+      "title": "How CBN - NNPC pact could chart new path to economic growth",
+      "url": "https://thesun.ng/how-cbn-nnpc-pact-could-chart-new-path-to-economic-growth/",
+      "source": "thesun.ng",
+      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+    },
+    {
+      "title": "Lasse del petrolio detta legge Bruxelles è troppo timida",
+      "url": "https://www.zazoom.it/2026-11-24/lasse-del-petrolio-detta-legge-bruxelles-e-troppo-timida/19967207/",
+      "source": "zazoom.it",
+      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+    },
+    {
+      "title": "Les tensions internationales au coeur des Assises de l  économie de la mer",
+      "url": "https://www.notretemps.com/depeches/les-tensions-internationales-au-coeur-des-assises-de-l-economie-de-la-mer-141716",
+      "source": "notretemps.com",
+      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+    },
+    {
+      "title": "Harga Minyak Anjlok Setelah Pasokan dari Timur Tengah Meningkat",
+      "url": "https://www.liputan6.com/bisnis/read/8341140/harga-minyak-anjlok-setelah-pasokan-dari-timur-tengah-meningkat",
+      "source": "liputan6.com",
+      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+    },
+    {
+      "title": "Beef industry maps sustainability progress and next priorities , but adoption in some areas has been slow",
+      "url": "https://www.beefcentral.com/news/beef-industry-maps-sustainability-progress-and-next-priorities-but-adoption-in-some-areas-has-been-slow/",
+      "source": "beefcentral.com",
+      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+    },
+    {
+      "title": "黄仁勋复职 显示特朗普为维持AI繁荣  不惜一切手段 _ 新浪财经 _ 新浪网",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizuxve5141804.shtml",
+      "source": "finance.sina.com.cn",
+      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+    },
+    {
+      "title": "Europa entra en su invierno más tenso por gas y frío",
+      "url": "https://www.negocios.com/geopolitica/tormenta-perfecta-europa-enfrenta-invierno-critico-crisis-energetica/20261123222355498612.html",
+      "source": "negocios.com",
+      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+    },
+    {
+      "title": "Jensen Huang reinstatement at Nvidia sparks huge Wall Street rally",
+      "url": "http://www.newzealandstar.com/news/279451118/jensen-huang-s-reinstatement-at-nvidia-sparks-huge-wall-street-rally",
+      "source": "newzealandstar.com",
+      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+    },
+    {
+      "title": "Ontario gas prices expected to fall Wednesday : GTA forecast",
+      "url": "https://www.caledonenterprise.com/news/ontario-gas-price-prediction-for-nov-25/article_37e72e57-701e-5f6c-860c-2fda3ca16a1b.html",
+      "source": "caledonenterprise.com",
+      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+    },
+    {
+      "title": "China sebut pertemuan trilateral tak gantikan prinsip multilateralisme",
+      "url": "https://www.antaranews.com/berita/5873967/china-sebut-pertemuan-trilateral-tak-gantikan-prinsip-multilateralisme",
+      "source": "antaranews.com",
+      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+    },
+    {
+      "title": "El rechazo electoral a Trump y sus consecuencias dentro y fuera de los EE . UU .",
+      "url": "https://www.clarin.com/opinion/rechazo-electoral-trump-consecuencias-dentro-eeuu_0_TUqu5U4u42.html",
+      "source": "clarin.com",
+      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+    },
+    {
+      "title": "Jensen Huang reinstatement at Nvidia sparks huge Wall Street rally",
+      "url": "http://www.iraqsun.com/news/279451118/jensen-huang-s-reinstatement-at-nvidia-sparks-huge-wall-street-rally",
+      "source": "iraqsun.com",
+      "firstSeenAt": "2026-11-24T07:15:00+05:30"
+    },
+    {
+      "title": "경동시장 한과와 청주 수제만두가 일본 도쿄에 ... 쿠팡 · 쿠팡이츠가 열어준 판매길",
+      "url": "https://www.insight.co.kr/news/583313",
+      "source": "insight.co.kr",
+      "firstSeenAt": "2026-11-24T07:15:00+05:30"
+    },
+    {
+      "title": "GLOBAL X ANNOUNCES NOVEMBER 2026 MONTHLY & UPCOMING SEMI - MONTHLY DISTRIBUTIONS FOR ITS SUITE OF ETFs",
+      "url": "https://www.cantechletter.com/newswires/global-x-announces-november-2026-monthly-upcoming-semi-monthly-distributions-for-its-suite-of-etfs/",
+      "source": "cantechletter.com",
+      "firstSeenAt": "2026-11-24T07:15:00+05:30"
+    },
+    {
+      "title": "Russia eyes Singapore to deepen ASEAN business ties",
+      "url": "https://www.straitstimes.com/business/russia-eyes-singapore-to-deepen-business-ties-across-asean-despite-ongoing-sanctions",
+      "source": "straitstimes.com",
+      "firstSeenAt": "2026-11-24T07:15:00+05:30"
+    },
+    {
+      "title": "Wall Street : Warum Nvidia um 31 Prozent zulegt",
+      "url": "https://deutsche-wirtschafts-nachrichten.de/723388/us-boersenbericht-wall-street-feiert-kurssprung-nvidia-schiesst-um-31-prozent-nach-oben",
+      "source": "deutsche-wirtschafts-nachrichten.de",
+      "firstSeenAt": "2026-11-24T07:15:00+05:30"
+    },
+    {
+      "title": "ADENTRA to Acquire AccessSMT , a Leading Canadian Distributor of Commercial Doors , Hardware and Access Control Products , for C$230 Million",
+      "url": "https://www.cantechletter.com/newswires/adentra-to-acquire-accesssmt-a-leading-canadian-distributor-of-commercial-doors-hardware-and-access-control-products-for-c230-million/",
+      "source": "cantechletter.com",
+      "firstSeenAt": "2026-11-24T07:15:00+05:30"
+    },
+    {
+      "title": "Stock market holiday today : BSE , NSE to remain closed for Guru Nanak Jayanti",
+      "url": "https://www.moneycontrol.com/news/business/stocks/stock-market-holiday-today-bse-nse-to-remain-closed-for-guru-nanak-jayanti-14087316.html",
+      "source": "moneycontrol.com",
+      "firstSeenAt": "2026-11-24T07:15:00+05:30"
+    },
+    {
+      "title": "黄金早盘延续涨势 ， 反弹还在继续 _ 名家点金 _ 黄金网 _ 中金在线",
+      "url": "http://gold.cnfol.com/mingjiadianjin/20261124/32430494.shtml",
+      "source": "gold.cnfol.com",
+      "firstSeenAt": "2026-11-24T07:15:00+05:30"
+    },
+    {
+      "title": "Las dos claves para frenar las caídas de la Bolsa",
+      "url": "https://www.expansion.com/mercados/2026/11/24/dos-claves-frenar-caidas-bolsa.html",
+      "source": "expansion.com",
+      "firstSeenAt": "2026-11-24T07:00:00+05:30"
+    }
+  ],
   "warnings": [
     "Query 1 failed: HTTP Error 429: Too Many Requests",
     "Query 2 failed: HTTP Error 429: Too Many Requests",
-    "Query 3 failed: HTTP Error 429: Too Many Requests",
-    "Query 4 failed: HTTP Error 429: Too Many Requests"
+    "Query 3 failed: HTTP Error 429: Too Many Requests"
   ],
   "notice": "Headlines and links only. Open the publisher source to verify details; coverage is not exhaustive."
 }
