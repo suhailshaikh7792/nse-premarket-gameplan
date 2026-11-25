@@ -1,317 +1,329 @@
 {
-  "generatedAt": "2026-11-24T09:24:21.744183+05:30",
-  "windowStart": "2026-11-23T15:30:00+05:30",
-  "windowEnd": "2026-11-24T08:30:00+05:30",
+  "generatedAt": "2026-11-25T09:26:46.665902+05:30",
+  "windowStart": "2026-11-24T15:30:00+05:30",
+  "windowEnd": "2026-11-25T08:30:00+05:30",
   "timezone": "Asia/Kolkata",
   "provider": "GDELT DOC 2.0",
   "providerUrl": "https://www.gdeltproject.org/",
-  "articleCount": 51,
+  "articleCount": 53,
   "articles": [
     {
-      "title": "Oil Falls as Trump Signals Iran Talks",
-      "url": "https://www.rigzone.com/news/wire/oil_falls_as_trump_signals_iran_talks-23-nov-2026-185152-article/",
-      "source": "rigzone.com",
-      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+      "title": "Nasdaq quay đầu giảm vì áp lực bán cổ phiếu AI trở lại , giá dầu thô tăng hơn 2 %",
+      "url": "https://baomoi.com/nasdaq-quay-dau-giam-vi-ap-luc-ban-co-phieu-ai-tro-lai-gia-dau-tho-tang-hon-2-c56594234.epi",
+      "source": "baomoi.com",
+      "firstSeenAt": "2026-11-25T08:15:00+05:30"
     },
     {
-      "title": "Ontario gas prices expected to fall Wednesday : GTA forecast",
-      "url": "https://www.bramptonguardian.com/news/ontario-gas-price-prediction-for-nov-25/article_56eee1d2-d1e4-5d4e-8590-2b27f85eb662.html",
-      "source": "bramptonguardian.com",
-      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+      "title": "Tipo de cambio peso / dólar al cierre HOY martes 24 de noviembre",
+      "url": "https://elmanana.com.mx/nacional/2026/11/24/tipo-de-cambio-pesodolar-al-cierre-hoy-martes-24-de-noviembre-184974.html",
+      "source": "elmanana.com.mx",
+      "firstSeenAt": "2026-11-25T08:15:00+05:30"
     },
     {
-      "title": "程强 ： 辉光日新 2027年年度策略报告",
-      "url": "https://www.163.com/dy/article/LCG9BRO00519IGF7.html",
-      "source": "163.com",
-      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+      "title": "100 %！ 美联储加息大消息 ！ 华尔街之狼  发出警告 _ 财经评论 ( cjpl ) 股吧 _ 东方财富网股吧",
+      "url": "https://guba.eastmoney.com/o/news,cjpl,1800967921.html",
+      "source": "guba.eastmoney.com",
+      "firstSeenAt": "2026-11-25T08:15:00+05:30"
     },
     {
-      "title": "El precio del petróleo cae a mínimos y presiona al sector energético",
-      "url": "http://puntobiz.com.ar/economia/el-precio-del-petroleo-cae-a-minimos-y-presiona-al-sector-energetico-2026112319280",
-      "source": "puntobiz.com.ar",
-      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+      "title": "Trump administration set to unveil new US tariffs",
+      "url": "https://www.examiner.com.au/story/9398042/trump-administration-set-to-unveil-new-us-tariffs/",
+      "source": "examiner.com.au",
+      "firstSeenAt": "2026-11-25T08:15:00+05:30"
     },
     {
-      "title": "خبير اقتصادي : تراجع تمويل برامج الإغاثة يهدد الأمن الغذائي العالمي",
-      "url": "https://akhbaregy.com/2026/11/24/%D8%AE%D8%A8%D9%8A%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A8%D8%B1%D8%A7%D9%85%D8%AC-%D8%A7%D9%84%D8%A5%D8%BA%D8%A7%D8%AB/",
-      "source": "akhbaregy.com",
-      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+      "title": "明年原油该产多少 ？ 欧佩克+月底开会 战事与过剩风险左右抉择 _ 财经评论 ( cjpl ) 股吧 _ 东方财富网股吧",
+      "url": "https://guba.eastmoney.com/o/news,cjpl,1800866675.html",
+      "source": "guba.eastmoney.com",
+      "firstSeenAt": "2026-11-25T08:15:00+05:30"
     },
     {
-      "title": "一个  稳  字谈何易 ！",
-      "url": "http://news.cyol.com/gb/xiaofei/articles/2026-11/24/content_2b03LguE6J.html",
-      "source": "news.cyol.com",
-      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+      "title": "在深化区域合作中彼此成就 （ 环球热点 ）- 千龙网 · 中国首都网",
+      "url": "https://china.qianlong.com/2026/1125/8755307.shtml",
+      "source": "china.qianlong.com",
+      "firstSeenAt": "2026-11-25T08:15:00+05:30"
     },
     {
-      "title": "Giá xăng dầu hôm nay 24 / 11 : E10 , E5 , dầu diesel dự báo sắp về đáy , 1 mặt hàng giảm đến 1 . 500 đồng",
-      "url": "https://www.techz.vn/187-1126-5-gia-xang-dau-hom-nay-24-11-e10-e5-dau-diesel-du-bao-sap-ve-day-1-mat-hang-giam-den-1500-dong-ylt718327.html",
-      "source": "techz.vn",
-      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+      "title": "明年原油该产多少 ？ 欧佩克+月底开会 ， 战事与过剩风险左右抉择 _ 国际财经 _ 财经 _ 中金在线",
+      "url": "http://news.cnfol.com/guojicaijing/20261125/32431580.shtml",
+      "source": "news.cnfol.com",
+      "firstSeenAt": "2026-11-25T08:15:00+05:30"
     },
     {
-      "title": "郭磊 ： 潮汐之间 2027年宏观环境展望",
-      "url": "https://www.163.com/dy/article/LCG98I4O0519IGF7.html",
-      "source": "163.com",
-      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+      "title": "Trump administration set to unveil new US tariffs",
+      "url": "https://www.sconeadvocate.com.au/story/9398042/trump-administration-set-to-unveil-new-us-tariffs/",
+      "source": "sconeadvocate.com.au",
+      "firstSeenAt": "2026-11-25T08:15:00+05:30"
     },
     {
-      "title": "Giá xăng dầu hôm nay 24 . 11 . 2026 : Giảm sâu , xuống mức thấp nhất trong 3 tháng",
-      "url": "https://thanhnien.vn/gia-xang-dau-hom-nay-24112026-giam-sau-xuong-muc-thap-nhat-trong-3-thang-185261124084913483.htm",
-      "source": "thanhnien.vn",
-      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+      "title": "No tenía cómo ser un Yalta 2 . 0",
+      "url": "https://www.elpais.com.co/opinion/columnistas/no-tenia-como-ser-un-yalta-20-2455.html",
+      "source": "elpais.com.co",
+      "firstSeenAt": "2026-11-25T08:15:00+05:30"
     },
     {
-      "title": "Bolsas asiáticas disparam após regresso de Jensen Huang à liderança da Nvidia",
-      "url": "https://executivedigest.sapo.pt/bolsas-asiaticas-disparam-apos-regresso-de-jensen-huang-a-lideranca-da-nvidia/",
-      "source": "executivedigest.sapo.pt",
-      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+      "title": "Spying activities associated with Shell – Royal Dutch Shell Plc . com",
+      "url": "https://royaldutchshellplc.com/2026/11/25/spying-activities-associated-with-shell/",
+      "source": "royaldutchshellplc.com",
+      "firstSeenAt": "2026-11-25T08:15:00+05:30"
     },
     {
-      "title": "Jensen ! Jensen ! Jensen !: Nvidia employees chant Huang name as he makes stunning return as CEO | Watch",
-      "url": "https://www.livemint.com/companies/news/jensen-jensen-jensen-nvidia-employees-chant-huang-s-name-as-he-makes-stunning-return-as-ceo-watch-11795482992167.html",
-      "source": "livemint.com",
-      "firstSeenAt": "2026-11-24T08:15:00+05:30"
+      "title": "Why farmers on both sides oppose the Australia - EU trade deal | Stock Journal",
+      "url": "https://www.stockjournal.com.au/story/9394335/why-farmers-on-both-sides-oppose-the-australia-eu-trade-deal/",
+      "source": "stockjournal.com.au",
+      "firstSeenAt": "2026-11-25T08:15:00+05:30"
     },
     {
-      "title": "Giá xăng dầu 24 / 11 : E5 giảm 7 . 451 đồng / lít , diesel giảm 3 . 899 đồng / lít sau 5 kỳ , lại sắp hạ thêm ?",
-      "url": "https://www.techz.vn/187-1126-5-bang-gia-xang-dau-24-11-e5-giam-7451-dong-lit-dau-diesel-giam-3899-dong-lit-sau-5-ky-du-bao-sap-ha-them-ylt718304.html",
-      "source": "techz.vn",
-      "firstSeenAt": "2026-11-24T08:15:00+05:30"
-    },
-    {
-      "title": "Viento en contra de la causa Malvinas",
-      "url": "https://www.laprensa.com.ar/Viento-en-contra-de-la-causa-Malvinas-578131.note.aspx",
-      "source": "laprensa.com.ar",
-      "firstSeenAt": "2026-11-24T08:15:00+05:30"
-    },
-    {
-      "title": "Giá xăng dầu sáng nay 24 / 11 : E10 RON95 và E5 RON92 đã cách đỉnh 12 . 000 đồng , Diesel cực bèo , giá đầy bình xe máy Piaggio",
-      "url": "https://www.techz.vn/178-1126-5-gia-xang-dau-sang-nay-24-11-e10-ron95-va-e5-ron92-da-cach-dinh-12000-dong-diesel-cuc-beo-gia-day-binh-xe-may-piaggio-ylt718309.html",
-      "source": "techz.vn",
-      "firstSeenAt": "2026-11-24T08:15:00+05:30"
-    },
-    {
-      "title": "美新規堵漏洞 對東南亞數據中心有何影響",
-      "url": "https://www.epochtimes.com/b5/26/11/23/n14894042.htm",
-      "source": "epochtimes.com",
-      "firstSeenAt": "2026-11-24T08:15:00+05:30"
-    },
-    {
-      "title": "Asian markets follow Wall Street : Nikkei , Kospi jump up to 8 % as Jensen Huang return sparks rally in AI stocks",
-      "url": "https://www.livemint.com/market/stock-market-news/asian-markets-follow-wall-street-nikkei-kospi-jump-up-to-8-as-jensen-huang-s-return-sparks-rally-in-ai-stocks-11795485047635.html",
-      "source": "livemint.com",
-      "firstSeenAt": "2026-11-24T08:15:00+05:30"
-    },
-    {
-      "title": "Giá xăng dầu sáng nay 24 / 11 : E10 RON95 và E5 RON92 khả năng kỳ tới về đáy , Diesel rẻ cực bèo , giá đầy bình xe máy Yamaha",
-      "url": "https://www.techz.vn/178-1126-5-gia-xang-dau-sang-nay-24-11-e10-ron95-va-e5-ron92-kha-nang-ky-toi-ve-day-diesel-re-cuc-beo-gia-day-binh-xe-may-yamaha-ylt718308.html",
-      "source": "techz.vn",
-      "firstSeenAt": "2026-11-24T08:15:00+05:30"
-    },
-    {
-      "title": "At AI speed , Nvidia Jensen Huang finds exoneration",
-      "url": "https://economictimes.indiatimes.com/news/international/business/at-ai-speed-nvidias-jensen-huang-finds-exoneration/articleshow/136117203.cms",
-      "source": "economictimes.indiatimes.com",
-      "firstSeenAt": "2026-11-24T08:15:00+05:30"
-    },
-    {
-      "title": "Fat pays and job haze amid an AI wave : IITs kick off recruitments",
-      "url": "https://www.livemint.com/industry/iit-campus-placements-ai-jobs-hiring-trends-11795424140642.html",
-      "source": "livemint.com",
-      "firstSeenAt": "2026-11-24T08:15:00+05:30"
-    },
-    {
-      "title": "不要小看中国经济  稳  的分量",
-      "url": "http://news.cyol.com/gb/xiaofei/articles/2026-11/24/content_YOv4RRSvOP.html",
-      "source": "news.cyol.com",
-      "firstSeenAt": "2026-11-24T08:15:00+05:30"
-    },
-    {
-      "title": "为何总有人刻意  看空  中国经济 ？ 丨头条热评|证伪|宏观经济",
-      "url": "https://www.163.com/dy/article/LCETVAP30519AKBM.html",
-      "source": "163.com",
-      "firstSeenAt": "2026-11-24T08:15:00+05:30"
-    },
-    {
-      "title": "赵伟 ： 法债困局 ， 何以终结 ？  大财政  系列|国债|偿债|利差",
-      "url": "https://www.163.com/dy/article/LCG9AAR70519IGF7.html",
-      "source": "163.com",
-      "firstSeenAt": "2026-11-24T08:00:00+05:30"
-    },
-    {
-      "title": "盘前 利好来了 ！ 黄仁勋 将出席听证会 ！ 美联储 重磅发声 ！ 当着美军面 3艘油轮爆炸 ！ 欧洲已准备好与俄罗斯谈判  _ 东方财富网",
-      "url": "https://finance.eastmoney.com/a/202611243937791278.html",
-      "source": "finance.eastmoney.com",
-      "firstSeenAt": "2026-11-24T08:00:00+05:30"
-    },
-    {
-      "title": "Singapore upgrades GDP forecast to around 6 % for 2026 , expects growth to moderate in 2027",
-      "url": "https://www.asiaone.com/singapore/gdp-economy-growth-q3-meti-forecast-2027-outlook",
-      "source": "asiaone.com",
-      "firstSeenAt": "2026-11-24T08:00:00+05:30"
-    },
-    {
-      "title": "促进亚太共同繁荣的科学路径指引",
-      "url": "https://www.qstheory.cn/20261124/fe46a7edaf28421db5502b7abb0e4b03/c.html",
-      "source": "qstheory.cn",
-      "firstSeenAt": "2026-11-24T08:00:00+05:30"
-    },
-    {
-      "title": "Танкерная халява обернулась ловушкой : дешёвая доставка не спасла российскую нефть от новых скидок",
-      "url": "https://www.pravda.ru/news/economics/2448407-urals-oil-freight-cost-drop/",
-      "source": "pravda.ru",
-      "firstSeenAt": "2026-11-24T08:00:00+05:30"
-    },
-    {
-      "title": "Как западните инвестиции в чиста енергия засилват зависимостта от Китай и Русия ?",
-      "url": "https://www.dnes.bg/a/2-svyat/743325-kak-zapadnite-investitsii-v-chista-energiya-zasilvat-zavisimostta-ot-kitay-i-rusiya",
-      "source": "dnes.bg",
-      "firstSeenAt": "2026-11-24T08:00:00+05:30"
-    },
-    {
-      "title": "COP31 : pour la société civile canadienne , la chaise vide de Carney en dit long - La Nouvelle Union et LAvenir de l  Érable",
-      "url": "https://www.lanouvelle.net/nouvelles-nationales/cop31-pour-la-societe-civile-canadienne-la-chaise-vide-de-carney-en-dit-long/",
-      "source": "lanouvelle.net",
-      "firstSeenAt": "2026-11-24T08:00:00+05:30"
-    },
-    {
-      "title": "原油交易提醒 ： 供应过剩担忧情绪施压油价 ， 谨防美原油空头加速 _ 国际原油市场 _ 黄金网 _ 中金在线",
-      "url": "http://gold.cnfol.com/guojiyuanyousc/20261124/32430564.shtml",
+      "title": "原油交易提醒 ： 美原油超跌反弹 ， 不改下行趋势 _ 国际原油市场 _ 黄金网 _ 中金在线",
+      "url": "http://gold.cnfol.com/guojiyuanyousc/20261125/32431660.shtml",
       "source": "gold.cnfol.com",
-      "firstSeenAt": "2026-11-24T08:00:00+05:30"
+      "firstSeenAt": "2026-11-25T08:15:00+05:30"
     },
     {
-      "title": "COP31 : pour la société civile canadienne , la chaise vide de Carney en dit long",
-      "url": "https://www.courrierfrontenac.qc.ca/nouvelles-nationales/cop31-pour-la-societe-civile-canadienne-la-chaise-vide-de-carney-en-dit-long/",
-      "source": "courrierfrontenac.qc.ca",
-      "firstSeenAt": "2026-11-24T08:00:00+05:30"
+      "title": "Pemilihan Wapres Jadi Momentum Penguatan Stabilitas Rupiah",
+      "url": "https://www.metrotvnews.com/read/NOlCy01O-pemilihan-wapres-jadi-momentum-penguatan-stabilitas-rupiah",
+      "source": "metrotvnews.com",
+      "firstSeenAt": "2026-11-25T08:15:00+05:30"
     },
     {
-      "title": "黄仁勋没穿皮衣 ， 被女员工拥抱 ， 危机解除了 ？",
-      "url": "https://www.163.com/dy/article/LCG7VA9J0514BE2Q.html",
+      "title": "Dream Industrial Real Estate Investment Trust Announces Offering of C$300 Million Senior Unsecured Debentures , Series J",
+      "url": "https://www.stratfordbeaconherald.com/press-releases/business-wire/dream-industrial-real-estate-investment-trust-announces-offering-of-c300-million-senior-unsecured-debentures-series-j/",
+      "source": "stratfordbeaconherald.com",
+      "firstSeenAt": "2026-11-25T08:15:00+05:30"
+    },
+    {
+      "title": "The Gen - Z struggles in Africa and the European working class",
+      "url": "https://www.wsws.org/en/articles/2026/11/24/nlll-n24.html",
+      "source": "wsws.org",
+      "firstSeenAt": "2026-11-25T08:00:00+05:30"
+    },
+    {
+      "title": "Will the Fed trigger a recession with more interest rate hikes ?",
+      "url": "https://www.aol.com/articles/fed-trigger-recession-more-interest-223305000.html",
+      "source": "aol.com",
+      "firstSeenAt": "2026-11-25T08:00:00+05:30"
+    },
+    {
+      "title": "Nafta blizu višemesečnog minimuma : Brent oko 90 , a WTI 80 dolara po barelu",
+      "url": "https://www.alo.rs/biz/novac/17069793/nafta-blizu-visemesecnog-minimuma-brent-oko-90-a-wti-80-dolara-po-barelu.html",
+      "source": "alo.rs",
+      "firstSeenAt": "2026-11-25T08:00:00+05:30"
+    },
+    {
+      "title": "主次节奏 ： 原油回落在80多空快速转换 ， 日内走势先扬后抑 _ 国际原油市场 _ 黄金网 _ 中金在线",
+      "url": "http://gold.cnfol.com/guojiyuanyousc/20261125/32431654.shtml",
+      "source": "gold.cnfol.com",
+      "firstSeenAt": "2026-11-25T08:00:00+05:30"
+    },
+    {
+      "title": "Trump administration set to unveil new US tariffs",
+      "url": "https://www.westernadvocate.com.au/story/9398042/trump-administration-set-to-unveil-new-us-tariffs/",
+      "source": "westernadvocate.com.au",
+      "firstSeenAt": "2026-11-25T08:00:00+05:30"
+    },
+    {
+      "title": "对后市可以更乐观一些了",
+      "url": "https://bank.jrj.com.cn/2026/11/25083459258927.shtml",
+      "source": "bank.jrj.com.cn",
+      "firstSeenAt": "2026-11-25T08:00:00+05:30"
+    },
+    {
+      "title": "Profundizar la recesión : la economía argentina acumula caídas y el riesgo país se dispara",
+      "url": "https://noticiaslatam.lat/20261124/profundizar-la-recesion-la-economia-argentina-acumula-caidas-y-el-riesgo-pais-se-dispara-1176014012.html",
+      "source": "noticiaslatam.lat",
+      "firstSeenAt": "2026-11-25T08:00:00+05:30"
+    },
+    {
+      "title": "澳智库报告 ： 美中实力差距缩小 中美实力差创八年来新低 _ 新闻频道 _ 中华网",
+      "url": "https://news.china.com/socialgd/10000169/20261125/49905281.html",
+      "source": "news.china.com",
+      "firstSeenAt": "2026-11-25T08:00:00+05:30"
+    },
+    {
+      "title": "Transition finance will outgrow its labelling problem",
+      "url": "https://www.eco-business.com/news/transition-finance-will-outgrow-its-labelling-problem/",
+      "source": "eco-business.com",
+      "firstSeenAt": "2026-11-25T08:00:00+05:30"
+    },
+    {
+      "title": "Trump administration set to unveil new US tariffs",
+      "url": "https://www.edenmagnet.com.au/story/9398042/trump-administration-set-to-unveil-new-us-tariffs/",
+      "source": "edenmagnet.com.au",
+      "firstSeenAt": "2026-11-25T08:00:00+05:30"
+    },
+    {
+      "title": "廖博 ： 预计2027年A股市场存在较多结构性机会",
+      "url": "https://www.163.com/dy/article/LCIR8GBU0519IGF7.html",
       "source": "163.com",
-      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+      "firstSeenAt": "2026-11-25T08:00:00+05:30"
     },
     {
-      "title": "How CBN - NNPC pact could chart new path to economic growth",
-      "url": "https://thesun.ng/how-cbn-nnpc-pact-could-chart-new-path-to-economic-growth/",
-      "source": "thesun.ng",
-      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+      "title": "Gold Price Rebounds 3 . 9 % After Steep Weekly Drop as Buyers Return – NaturalNews . com",
+      "url": "https://www.naturalnews.com/2026-11-24-gold-rebounds-after-steep-weekly-drop.html",
+      "source": "naturalnews.com",
+      "firstSeenAt": "2026-11-25T08:00:00+05:30"
     },
     {
-      "title": "Lasse del petrolio detta legge Bruxelles è troppo timida",
-      "url": "https://www.zazoom.it/2026-11-24/lasse-del-petrolio-detta-legge-bruxelles-e-troppo-timida/19967207/",
-      "source": "zazoom.it",
-      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+      "title": "Giải mã  thỏa thuận quân sự mới giữa Mỹ và Venezuela",
+      "url": "https://dantri.com.vn/the-gioi/giai-ma-thoa-thuan-quan-su-moi-giua-my-va-venezuela-20261125091229619.htm",
+      "source": "dantri.com.vn",
+      "firstSeenAt": "2026-11-25T08:00:00+05:30"
     },
     {
-      "title": "Les tensions internationales au coeur des Assises de l  économie de la mer",
-      "url": "https://www.notretemps.com/depeches/les-tensions-internationales-au-coeur-des-assises-de-l-economie-de-la-mer-141716",
-      "source": "notretemps.com",
-      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+      "title": "Más de 10 millones de toneladas de petróleo y GNL transitan por la Ruta Marítima del Norte en 2026",
+      "url": "https://noticiaslatam.lat/20261125/mas-de-10-millones-de-toneladas-de-petroleo-y-gnl-transitan-por-la-ruta-maritima-del-norte-en-2026-1176015760.html",
+      "source": "noticiaslatam.lat",
+      "firstSeenAt": "2026-11-25T08:00:00+05:30"
     },
     {
-      "title": "Harga Minyak Anjlok Setelah Pasokan dari Timur Tengah Meningkat",
-      "url": "https://www.liputan6.com/bisnis/read/8341140/harga-minyak-anjlok-setelah-pasokan-dari-timur-tengah-meningkat",
-      "source": "liputan6.com",
-      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+      "title": "بھارتی لغو پروپیگنڈا – Daily Pakistan",
+      "url": "https://dailypakistan.pk/%D8%A8%DA%BE%D8%A7%D8%B1%D8%AA%DB%8C-%D9%84%D8%BA%D9%88-%D9%BE%D8%B1%D9%88%D9%BE%DB%8C%DA%AF%D9%86%DA%88%D8%A7/",
+      "source": "dailypakistan.pk",
+      "firstSeenAt": "2026-11-25T08:00:00+05:30"
     },
     {
-      "title": "Beef industry maps sustainability progress and next priorities , but adoption in some areas has been slow",
-      "url": "https://www.beefcentral.com/news/beef-industry-maps-sustainability-progress-and-next-priorities-but-adoption-in-some-areas-has-been-slow/",
-      "source": "beefcentral.com",
-      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+      "title": "Why are oil prices falling despite Strait of Hormuz threats , and what could happen next ?",
+      "url": "https://news.az/news/why-are-oil-prices-falling-despite-strait-of-hormuz-threats-and-what-could-happen-next",
+      "source": "news.az",
+      "firstSeenAt": "2026-11-25T07:45:00+05:30"
     },
     {
-      "title": "黄仁勋复职 显示特朗普为维持AI繁荣  不惜一切手段 _ 新浪财经 _ 新浪网",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizuxve5141804.shtml",
-      "source": "finance.sina.com.cn",
-      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+      "title": "Chow eyes  911 fee , parking levy amid $200M fiscal  fiasco",
+      "url": "https://torontosun.com/news/local-news/chow-eyeing-911-fee-parking-levy-amid-200m-fiscal-fiasco",
+      "source": "torontosun.com",
+      "firstSeenAt": "2026-11-25T07:45:00+05:30"
     },
     {
-      "title": "Europa entra en su invierno más tenso por gas y frío",
-      "url": "https://www.negocios.com/geopolitica/tormenta-perfecta-europa-enfrenta-invierno-critico-crisis-energetica/20261123222355498612.html",
-      "source": "negocios.com",
-      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+      "title": "Nasdaq giảm mạnh , cổ phiếu AI lao dốc , giá dầu thô tăng vọt",
+      "url": "https://vneconomy.vn/nasdaq-quay-dau-giam-vi-ap-luc-ban-co-phieu-ai-tro-lai-gia-dau-tho-tang-hon-2.htm",
+      "source": "vneconomy.vn",
+      "firstSeenAt": "2026-11-25T07:45:00+05:30"
     },
     {
-      "title": "Jensen Huang reinstatement at Nvidia sparks huge Wall Street rally",
-      "url": "http://www.newzealandstar.com/news/279451118/jensen-huang-s-reinstatement-at-nvidia-sparks-huge-wall-street-rally",
+      "title": "U . S . stocks end mixed Tuesday , Dow gains 426 points , Nasdaq drops 356",
+      "url": "http://www.newzealandstar.com/news/279452544/u-s-stocks-end-mixed-tuesday-dow-gains-426-points-nasdaq-drops-356",
       "source": "newzealandstar.com",
-      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+      "firstSeenAt": "2026-11-25T07:45:00+05:30"
     },
     {
-      "title": "Ontario gas prices expected to fall Wednesday : GTA forecast",
-      "url": "https://www.caledonenterprise.com/news/ontario-gas-price-prediction-for-nov-25/article_37e72e57-701e-5f6c-860c-2fda3ca16a1b.html",
-      "source": "caledonenterprise.com",
-      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+      "title": "U . S . stocks end mixed Tuesday , Dow gains 426 points , Nasdaq drops 356",
+      "url": "http://www.austinglobe.com/news/279452544/u-s-stocks-end-mixed-tuesday-dow-gains-426-points-nasdaq-drops-356",
+      "source": "austinglobe.com",
+      "firstSeenAt": "2026-11-25T07:45:00+05:30"
     },
     {
-      "title": "China sebut pertemuan trilateral tak gantikan prinsip multilateralisme",
-      "url": "https://www.antaranews.com/berita/5873967/china-sebut-pertemuan-trilateral-tak-gantikan-prinsip-multilateralisme",
-      "source": "antaranews.com",
-      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+      "title": "U . S . stocks end mixed Tuesday , Dow gains 426 points , Nasdaq drops 356",
+      "url": "http://www.zimbabwestar.com/news/279452544/u-s-stocks-end-mixed-tuesday-dow-gains-426-points-nasdaq-drops-356",
+      "source": "zimbabwestar.com",
+      "firstSeenAt": "2026-11-25T07:45:00+05:30"
     },
     {
-      "title": "El rechazo electoral a Trump y sus consecuencias dentro y fuera de los EE . UU .",
-      "url": "https://www.clarin.com/opinion/rechazo-electoral-trump-consecuencias-dentro-eeuu_0_TUqu5U4u42.html",
-      "source": "clarin.com",
-      "firstSeenAt": "2026-11-24T07:45:00+05:30"
+      "title": "Trump administration set to unveil new US tariffs",
+      "url": "https://www.dailyadvertiser.com.au/story/9398042/trump-administration-set-to-unveil-new-us-tariffs/",
+      "source": "dailyadvertiser.com.au",
+      "firstSeenAt": "2026-11-25T07:45:00+05:30"
     },
     {
-      "title": "Jensen Huang reinstatement at Nvidia sparks huge Wall Street rally",
-      "url": "http://www.iraqsun.com/news/279451118/jensen-huang-s-reinstatement-at-nvidia-sparks-huge-wall-street-rally",
-      "source": "iraqsun.com",
-      "firstSeenAt": "2026-11-24T07:15:00+05:30"
+      "title": "Why farmers on both sides oppose the Australia - EU trade deal | Queensland Country Life",
+      "url": "https://www.queenslandcountrylife.com.au/story/9394335/why-farmers-on-both-sides-oppose-the-australia-eu-trade-deal/",
+      "source": "queenslandcountrylife.com.au",
+      "firstSeenAt": "2026-11-25T07:45:00+05:30"
     },
     {
-      "title": "경동시장 한과와 청주 수제만두가 일본 도쿄에 ... 쿠팡 · 쿠팡이츠가 열어준 판매길",
-      "url": "https://www.insight.co.kr/news/583313",
-      "source": "insight.co.kr",
-      "firstSeenAt": "2026-11-24T07:15:00+05:30"
+      "title": "輝達大到管不得 ？ 國安專家籲追查黃仁勳案5大疑點 涉及台灣 | 黃仁勳回歸輝達 | 全球",
+      "url": "https://udn.com/news/story/125066/9900304",
+      "source": "udn.com",
+      "firstSeenAt": "2026-11-25T07:45:00+05:30"
     },
     {
-      "title": "GLOBAL X ANNOUNCES NOVEMBER 2026 MONTHLY & UPCOMING SEMI - MONTHLY DISTRIBUTIONS FOR ITS SUITE OF ETFs",
-      "url": "https://www.cantechletter.com/newswires/global-x-announces-november-2026-monthly-upcoming-semi-monthly-distributions-for-its-suite-of-etfs/",
-      "source": "cantechletter.com",
-      "firstSeenAt": "2026-11-24T07:15:00+05:30"
+      "title": "100 %！ 美联储加息大消息 ！ 华尔街之狼  发出警告 _ 东方财富网",
+      "url": "https://finance.eastmoney.com/a/202611253939342680.html",
+      "source": "finance.eastmoney.com",
+      "firstSeenAt": "2026-11-25T07:45:00+05:30"
     },
     {
-      "title": "Russia eyes Singapore to deepen ASEAN business ties",
-      "url": "https://www.straitstimes.com/business/russia-eyes-singapore-to-deepen-business-ties-across-asean-despite-ongoing-sanctions",
-      "source": "straitstimes.com",
-      "firstSeenAt": "2026-11-24T07:15:00+05:30"
+      "title": "Trump administration set to unveil new US tariffs",
+      "url": "https://www.perthnow.com.au/news/business/trump-administration-set-to-unveil-new-us-tariffs-c-23210429",
+      "source": "perthnow.com.au",
+      "firstSeenAt": "2026-11-25T07:45:00+05:30"
     },
     {
-      "title": "Wall Street : Warum Nvidia um 31 Prozent zulegt",
-      "url": "https://deutsche-wirtschafts-nachrichten.de/723388/us-boersenbericht-wall-street-feiert-kurssprung-nvidia-schiesst-um-31-prozent-nach-oben",
+      "title": "Trump administration set to unveil new US tariffs",
+      "url": "https://www.bendigoadvertiser.com.au/story/9398042/trump-administration-set-to-unveil-new-us-tariffs/",
+      "source": "bendigoadvertiser.com.au",
+      "firstSeenAt": "2026-11-25T07:45:00+05:30"
+    },
+    {
+      "title": "Trump administration set to unveil new tariffs after probe on excess factory capacity : sources",
+      "url": "https://www.thehindu.com/news/international/trump-administration-set-to-unveil-new-tariffs-after-probeon-excess-factory-capacity-sources/article71740905.ece",
+      "source": "thehindu.com",
+      "firstSeenAt": "2026-11-25T07:45:00+05:30"
+    },
+    {
+      "title": "Dream Industrial Real Estate Investment Trust Announces Offering of C$300 Million Senior Unsecured Debentures , Series J",
+      "url": "https://www.nugget.ca/press-releases/business-wire/dream-industrial-real-estate-investment-trust-announces-offering-of-c300-million-senior-unsecured-debentures-series-j/",
+      "source": "nugget.ca",
+      "firstSeenAt": "2026-11-25T07:45:00+05:30"
+    },
+    {
+      "title": "U . S . stocks end mixed Tuesday , Dow gains 426 points , Nasdaq drops 356",
+      "url": "http://www.philippinetimes.com/news/279452544/u-s-stocks-end-mixed-tuesday-dow-gains-426-points-nasdaq-drops-356",
+      "source": "philippinetimes.com",
+      "firstSeenAt": "2026-11-25T07:45:00+05:30"
+    },
+    {
+      "title": "Morgan Stanley eyes record Asia year amid AI investment boom",
+      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/morgan-stanley-eyes-record-asia-year-ai-investment-boom-fuels-financing-dealmaking",
+      "source": "businesstimes.com.sg",
+      "firstSeenAt": "2026-11-25T07:15:00+05:30"
+    },
+    {
+      "title": "U . S . stocks end mixed Tuesday , Dow gains 426 points , Nasdaq drops 356",
+      "url": "http://www.newyorktelegraph.com/news/279452544/u-s-stocks-end-mixed-tuesday-dow-gains-426-points-nasdaq-drops-356",
+      "source": "newyorktelegraph.com",
+      "firstSeenAt": "2026-11-25T07:15:00+05:30"
+    },
+    {
+      "title": "PSX rises 1 , 068 points in oil - driven rally",
+      "url": "https://tribune.com.pk/story/2642154/psx-rises-1068-points-in-oil-driven-rally",
+      "source": "tribune.com.pk",
+      "firstSeenAt": "2026-11-25T07:15:00+05:30"
+    },
+    {
+      "title": "CPEC Connecting Pakistan with APEC Economic System",
+      "url": "https://pakobserver.net/cpec-connecting-pakistan-with-apecs-economic-system/",
+      "source": "pakobserver.net",
+      "firstSeenAt": "2026-11-25T07:15:00+05:30"
+    },
+    {
+      "title": "地缘政治风险与全球投资 ： 不确定性阴影下的全球投资重构",
+      "url": "https://www.ftchinese.com/story/8b259928-bfcc-4298-bd45-bc2c1317017d",
+      "source": "ftchinese.com",
+      "firstSeenAt": "2026-11-25T07:15:00+05:30"
+    },
+    {
+      "title": "Justice without conditions ! - Pakistan Observer",
+      "url": "https://pakobserver.net/justice-without-conditions/",
+      "source": "pakobserver.net",
+      "firstSeenAt": "2026-11-25T07:15:00+05:30"
+    },
+    {
+      "title": "US Märkte unter Druck : Warum Nvidia & Tech fallen",
+      "url": "https://deutsche-wirtschafts-nachrichten.de/723412/us-maerkte-im-uberblick-nvidia-gibt-gewinne-ab-waehrend-tech-ausverkauf-auf-erneute-zollsorgen-trifft",
       "source": "deutsche-wirtschafts-nachrichten.de",
-      "firstSeenAt": "2026-11-24T07:15:00+05:30"
+      "firstSeenAt": "2026-11-25T07:15:00+05:30"
     },
     {
-      "title": "ADENTRA to Acquire AccessSMT , a Leading Canadian Distributor of Commercial Doors , Hardware and Access Control Products , for C$230 Million",
-      "url": "https://www.cantechletter.com/newswires/adentra-to-acquire-accesssmt-a-leading-canadian-distributor-of-commercial-doors-hardware-and-access-control-products-for-c230-million/",
-      "source": "cantechletter.com",
-      "firstSeenAt": "2026-11-24T07:15:00+05:30"
+      "title": "Beluçların Tarihi ve Güncel Durumu Pakistan , İran ve",
+      "url": "https://www.habervitrini.com/haber/uc-ulkeye-yayilan-halk-beluclarin-bilinmeyen-hikayesi-inanislari-ve-nufuslari-1795025778902",
+      "source": "habervitrini.com",
+      "firstSeenAt": "2026-11-25T07:15:00+05:30"
     },
     {
-      "title": "Stock market holiday today : BSE , NSE to remain closed for Guru Nanak Jayanti",
-      "url": "https://www.moneycontrol.com/news/business/stocks/stock-market-holiday-today-bse-nse-to-remain-closed-for-guru-nanak-jayanti-14087316.html",
-      "source": "moneycontrol.com",
-      "firstSeenAt": "2026-11-24T07:15:00+05:30"
-    },
-    {
-      "title": "黄金早盘延续涨势 ， 反弹还在继续 _ 名家点金 _ 黄金网 _ 中金在线",
-      "url": "http://gold.cnfol.com/mingjiadianjin/20261124/32430494.shtml",
-      "source": "gold.cnfol.com",
-      "firstSeenAt": "2026-11-24T07:15:00+05:30"
-    },
-    {
-      "title": "Las dos claves para frenar las caídas de la Bolsa",
-      "url": "https://www.expansion.com/mercados/2026/11/24/dos-claves-frenar-caidas-bolsa.html",
-      "source": "expansion.com",
-      "firstSeenAt": "2026-11-24T07:00:00+05:30"
+      "title": "Australia Sets Stage for $44B Paperless Trade Boost",
+      "url": "https://www.miragenews.com/australia-sets-stage-for-44b-paperless-trade-1783256/",
+      "source": "miragenews.com",
+      "firstSeenAt": "2026-11-25T07:15:00+05:30"
     }
   ],
   "warnings": [
